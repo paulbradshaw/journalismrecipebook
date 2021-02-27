@@ -40,7 +40,7 @@ You can also write another story about the **background** to the meeting, if the
 
 ## Step 4. Attend the meeting!
 
-Now you can attend the meeting and report on it having already done the basic work. You can even choose to liveblog and/or live tweet it! ([Here’s an example](https://twitter.com/ThisIsTomFair/status/1348632510763315200)) Try to get some images/video/audio while you are there, and do further interviews if you can.
+Now you can attend the meeting and report on it having already done the basic work. You can even choose to liveblog and/or live tweet it! ([Here’s an example of a series of tweets from a council meeting](https://twitter.com/search?q=%23rainbowlicence%20from%3Aphoebe_greggor%20since%3A2017-11-27%20until%3A2017-11-29&src=typed_query&f=live) and [a thread from a West Midlands Police & Crime Panel](https://twitter.com/ThisIsTomFair/status/1348632510763315200)) Try to get some images/video/audio while you are there, and do further interviews if you can.
 
 You should now have material for a second story (or a third if you also did a liveblog).
 
