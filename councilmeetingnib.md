@@ -12,15 +12,13 @@ Note that there are 2 main types of meeting:
 
 Here is a quick guide on what to do next to turn that lead into at least one story - and potentially more!
 
-## The recipe
-
-**Step 1: Read the agenda**
+## Step 1: Read the agenda
 
 Click on the meeting entry and you should see a ‘documents’ section which contains an agenda and an agenda documents pack. The agenda lists what is going to be discussed at the meeting; the documents pack provides any supporting material such as reports, statements, and photos. 
 
 Have a quick read of both the agenda and an agenda documents pack to get an idea **what is going to take place at the meeting**. That's the focus of this story.
 
-**Step 2. Write a brief NIB saying what’s going to be happening**
+## Step 2. Write a brief NIB saying what’s going to be happening
 
 You can probably write a short News In Brief (NIB) of about 2-3 paragraphs based on this alone, with a structure like this:
 
@@ -28,7 +26,7 @@ You can probably write a short News In Brief (NIB) of about 2-3 paragraphs based
 * Paragraph 2: A little more background on what’s going to happen (names of councillors and other attendees who might be presenting reports), and any relevant background from the document
 * Paragraph 3: Say where (which room) and when (specific time) it is and that members of the public can attend
 
-**Step 3. Chase more details to flesh out the story or move it on**
+## Step 3. Chase more details to flesh out the story or move it on
 
 The documents should also give names of those people expected to be attending this meeting. Make a note of these names and **identify who might be useful to chase for a quote**. 
 
@@ -40,7 +38,7 @@ You can also try to get a quote from an organisation or individual affected by t
 
 You can also write another story about the **background** to the meeting, if the story is big enough. 
 
-**Step 4. Attend the meeting!**
+## Step 4. Attend the meeting!
 
 Now you can attend the meeting and report on it having already done the basic work. You can even choose to liveblog and/or live tweet it! ([Here’s an example](https://twitter.com/ThisIsTomFair/status/1348632510763315200)) Try to get some images/video/audio while you are there, and do further interviews if you can.
 
