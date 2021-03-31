@@ -13,3 +13,7 @@ This repo contains recipes for creating different types of stories.
 * Reaction stories 
 * 'Concerns raised'
 * 'New report says'
+
+## Investigations
+
+* [The refused FOI request (using alerts on WDTK)](https://github.com/paulbradshaw/journalismrecipebook/blob/main/foialerts.md)
