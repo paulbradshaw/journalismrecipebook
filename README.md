@@ -10,6 +10,8 @@ This repo contains recipes for creating different types of stories.
 
 ## Verb stories
 
+Once you've identified a story lead it's important to identify what the **verb** is that your story is about. 
+
 * Reaction stories 
 * 'Concerns raised'
 * 'New report says'
