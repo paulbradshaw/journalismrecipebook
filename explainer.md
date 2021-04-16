@@ -1,4 +1,4 @@
-# The explainer
+# How to write: the explainer
 
 Explainers are a genre of article that 'explains' something currently newsworthy (such as a developing news story, new technology or trend). Typically they lead on - and *answer* - questions that people might be asking (and, crucially, typing into search engines: explainers are often heavily optimised for search engines).
 
