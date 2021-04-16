@@ -7,6 +7,7 @@ This repo contains recipes for creating different types of stories.
 * 'All you need to know about...'
 * 'How to' story
 * 'Here are...' story
+* [The 'story behind' article](https://github.com/paulbradshaw/journalismrecipebook/blob/main/storybehind.md)
 
 ## Verb stories
 
