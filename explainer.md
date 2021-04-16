@@ -28,3 +28,42 @@ Good candidates for an explainer include:
 * New technologies or research which includes important context/complexity
 * An upcoming news event (*[World Cup 2018: Everything you need to know in seven charts](https://www.bbc.co.uk/sport/football/44388118)*)
 * A factcheck
+
+The story might be one you are reporting, too. For example if you've done an investigation and there are complexities that need explaining, you might write a separate explainer to link to (and make the most of your background research).
+
+
+## 2. Identify the sorts of questions they might be asking
+
+Explainers are often divided into short sections using subheadings (in the case of listicles those subheadings are numbered). Those sections are likely to relate to different aspects of the issue, thing or story you are explaining. 
+
+These might be:
+
+* Sub-questions related to the main headline ("Who has scored the most goals?"; "Where are Suu Kyi and senior leaders?")
+* Key facts ("[Hardly anyone has a mobile](https://www.bbc.co.uk/news/world-asia-41228181)"; "England may struggle but the Premier League dominates")
+* Key actors ("The democratically elected leader" and "The military" are the first two subheadings in *[Myanmar Coup: What You Need To Know](https://www.huffingtonpost.co.uk/entry/myanmar-military-coup-explained_uk_6017a972c5b653f644d528d6)*)
+* Key events ("The coup" and "The international reaction" are two further subheadings in the same piece)
+* Key themes (*[How will Brexit affect your finances?](https://www.bbc.co.uk/news/business-36537906)* has 'the pound', 'mortgages', 'house prices', 'wages' and so on)
+
+You can [use Google Trends](https://newsinitiative.withgoogle.com/training/lessons?tool=Google%20Trends&image=trends) to help you identify 'related queries' that people looking for one thing are likely to also be searching for.
+
+You can also try to look at news reports on the issue with fresh eyes and identify those aspects that may not be immediately understandable to a casual reader, thinking about the 5 Ws and a H - who, what, where, when, why, and how ("Who is that person?" "Why does that matter?" "How does that work?" "What happens next?")
+
+## 3. Research the answers to those questions
+
+Explainers are normally a **curatorial** format - that is, based entirely on secondary research rather than original interviews (although there are [exceptions](https://www.bbc.co.uk/news/uk-england-39130530)). You'll need to do a lot of reading around the subject, but try to keep that focused on the questions you're trying to answer in the article.
+
+That research might include:
+* Previous news reports to understand the series of events that led up to this point
+* Other analysis (they may be aimed at different audiences)
+* Academic research
+* Official reports
+
+Make sure your sources are **reliable** - not Wikipedia, for example (but remember that Wikipedia entries do have references that you can follow up). You will need to link to and attribute your sources so the quality of those will reflect on your journalism.
+
+## 4. Select the most relevant and trustworthy information and structure it into an article
+
+Once you've done some research you can start to select and structure it into an article. **Be prepared to leave a lot of information out**. The point of an explainer is to *distil* the *most important* information for your reader, so you need to decide which parts those are. 
+
+Consider whether your subject might be best structured around sub-questions, events, actors, themes or key facts - or a combination. What are likely to be the questions/elements you need to introduce first, and which ones come last? (A common final section is 'what happens next?' or something else that looks ahead).
+
+Consider whether you might use a listicle or charticle format, too. 
