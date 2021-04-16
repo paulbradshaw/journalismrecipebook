@@ -2,14 +2,7 @@
 
 Explainers are a genre of article that 'explains' something currently newsworthy (such as a developing news story, new technology or trend). Typically they lead on - and *answer* - questions that people might be asking (and, crucially, typing into search engines: explainers are often heavily optimised for search engines).
 
-The following examples give you an idea both of the angles typically taken, and the importance of a topical hook:
-
-* *[Myanmar Coup: What You Need To Know](https://www.huffingtonpost.co.uk/entry/myanmar-military-coup-explained_uk_6017a972c5b653f644d528d6)* (as a coup began in the country)
-* *[Royal charters: what are they and how do they work?](https://www.theguardian.com/media/2012/dec/07/leveson-inquiry-royal-charter-history)* (when it was being proposed by one inquiry)
-* *[How many people are sleeping on the streets?](https://www.bbc.co.uk/news/av/uk-47068063/how-many-people-are-sleeping-rough-in-england)* (as new figures hit the headlines)
-* *[World Cup 2018: Everything you need to know in seven charts](https://www.bbc.co.uk/sport/football/44388118)* (as the tournament is about to begin)
-
-Sometimes these answer 'What' and 'how' questions, with "What you need to know about..." or "Everything you need to know" being commonly employed. The **listicle** (structuring the information into a numbered series of pieces of information) or **charticle** format (the same, but with a chart for each item) is also often used.
+Sometimes these answer 'What' and 'how' questions, with "What you need to know about..." or "Everything you need to know" being commonly employed. The **listicle** (structuring the information into a numbered series of pieces of information) or **charticle** format (the same, but with a chart for each item) is also often used. Sometimes they are part of a regular series that focuses on a particular topical subject each day or week, such as The Guardian's [The Briefing](https://www.theguardian.com/news/series/the-briefing) or [Vox's explainers](https://www.vox.com/explainers).
 
 Here's the recipe:
 
@@ -26,7 +19,7 @@ Good candidates for an explainer include:
 * A news story which includes important context/complexity (*[How many people are sleeping on the streets?](https://www.bbc.co.uk/news/av/uk-47068063/how-many-people-are-sleeping-rough-in-england)*) 
 * Proposals that need explaining (*[Royal charters: what are they and how do they work?](https://www.theguardian.com/media/2012/dec/07/leveson-inquiry-royal-charter-history)*)
 * New technologies or research which includes important context/complexity
-* An upcoming news event (*[World Cup 2018: Everything you need to know in seven charts](https://www.bbc.co.uk/sport/football/44388118)*)
+* An upcoming news event (*[World Cup 2018: Everything you need to know in seven charts](https://www.bbc.co.uk/sport/football/44388118)* or *[Everything you need to know about the West Midlands Mayor](https://www.birminghammail.co.uk/news/midlands-news/west-midlands-mayor-2017-candidates-12587689?service=responsive)*)
 * A factcheck
 
 The story might be one you are reporting, too. For example if you've done an investigation and there are complexities that need explaining, you might write a separate explainer to link to (and make the most of your background research).
@@ -66,4 +59,6 @@ Once you've done some research you can start to select and structure it into an 
 
 Consider whether your subject might be best structured around sub-questions, events, actors, themes or key facts - or a combination. What are likely to be the questions/elements you need to introduce first, and which ones come last? (A common final section is 'what happens next?' or something else that looks ahead).
 
-Consider whether you might use a listicle or charticle format, too. 
+Consider whether you might use a listicle or charticle format, too. Or you might use a **conversational** format, as in *[Why do new medicines cost so much, and what can we do about it?](https://www.theguardian.com/news/2018/apr/09/why-do-new-medicines-cost-so-much-and-what-can-we-do-about-it)*
+
+You can [find resources on explainers here](https://pinboard.in/u:paulbradshaw/t:explainers) and [examples here](https://pinboard.in/u:paulbradshaw/t:explainer), including [video expliners](https://pinboard.in/u:paulbradshaw/t:explainer+video)
