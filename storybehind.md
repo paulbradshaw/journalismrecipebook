@@ -38,6 +38,11 @@ In this case Kale attends the funeral of the person who died, allowing them to a
 
 Large chunks of Kale's story are based entirely on background research, especially in the middle section: in one passage we read about the various people who have died at the beginning, middle and end of stowaway attempts. After that, we read about some research into those who survive. A later part relies on media reports about a possible identification which turned out to be false, and a third section quotes from an investigation into the airport. 
 
+From that you can make a list of the types of background you should consider:
+* Media reports of the event and similar events ([Nexis can be useful for this](https://docs.google.com/document/d/e/2PACX-1vRPWOlzvTlZ0r5wL333kH-YsGQTrUMoeEYRAuTc9NKF1ItKJGPdq22u2S7UtwbcQIJKsJAKVXnNUai2/pub))
+* Academic research and researchers about an issue
+* Official reports and similar documents
+
 ## 5. Structure the results
 
 Kale's story follows a broadly chronological narrative, starting from the eyewitness account of the body falling, then the account of the police officer investigating, which it follows for the bulk of the article, before a brief section where Kenyan journalists' accounts pick up the tale, and finally the account of the funeral from the reporter herself.
