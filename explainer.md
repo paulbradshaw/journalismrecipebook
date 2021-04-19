@@ -1,6 +1,6 @@
 # How to write: the explainer
 
-Explainers are a genre of article that 'explains' something currently newsworthy (such as a developing news story, new technology or trend). Typically they lead on - and *answer* - questions that people might be asking (and, crucially, typing into search engines: explainers are often heavily optimised for search engines).
+Explainers are a genre of article that 'explains' something currently newsworthy (such as a developing news story, new technology or trend). Typically they lead on - and *answer* - questions that people might be asking (and, crucially, typing into search engines: explainers are often heavily optimised for search engines, as [Ash Percival, Entertainment Editor at HuffPost UK, explains here](https://us13.campaign-archive.com/?u=ea6d038b0e2ba7e4cbb480e7e&id=75e581d3ae)).
 
 Sometimes these answer 'What' and 'how' questions, with "What you need to know about..." or "Everything you need to know" being commonly employed. The **listicle** (structuring the information into a numbered series of pieces of information) or **charticle** format (the same, but with a chart for each item) is also often used. Sometimes they are part of a regular series that focuses on a particular topical subject each day or week, such as The Guardian's [The Briefing](https://www.theguardian.com/news/series/the-briefing) or [Vox's explainers](https://www.vox.com/explainers).
 
