@@ -34,3 +34,27 @@ You can find interviewees by:
 * Identifying **topical** issues (those in the news) and then seeking out experts in that field (e.g. by searching Google Scholar or Academia.edu or LinkedIn)
 * Following the publication of new research in journals that cover a particular sector (newness is topical) which is newsworthy and whose authors might be good to interview
 * Calling around and asking people in a sector who they think is interesting and worth interviewing
+
+## 2. Do background research
+
+See if the interviewee has an LinkedIn profile which details their professional history. Their employer might also have a profile page on their website, and any conference appearances should come with a short biography. If they have a Wikipedia page check the references for more info.
+
+Find out if the person has been interviewed or profiled in the media before ([Nexis can be useful for this](https://docs.google.com/document/d/e/2PACX-1vRPWOlzvTlZ0r5wL333kH-YsGQTrUMoeEYRAuTc9NKF1ItKJGPdq22u2S7UtwbcQIJKsJAKVXnNUai2/pub)) and what they've said on social media and blogs.
+
+If the person is an expert, see what research they've been involved in by searching Google Scholar or Academia.edu.
+
+Research as many contact details as you can find related to the person - their phone number and/or their organisation's phone number; their email address, social media profiles etc. These can be added to your contacts book or database in case you need them in future.
+
+## 3. Identify what is likely to be most newsworthy about them
+
+Make notes about aspects of that background that may be relevant now, e.g. experiences or knowledge.
+
+Not all interviews have to have a topical hook - some can simply be about their expertise or knowledge - but it's good to find something topical (issues with high prominence in the news right now) to hang it on if you can. 
+
+## 4. Make the approach
+
+
+
+It's always best to approach someone by phone if you have found a number. Even if you don't have a direct number, you can call their organisation and ask to be put through to that person (also ask what their direct line is).
+
+If you think a direct approach may not be best, consider a go-between
