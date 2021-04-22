@@ -53,8 +53,16 @@ Not all interviews have to have a topical hook - some can simply be about their 
 
 ## 4. Make the approach
 
+It's always best to approach someone by phone if you have found a number - phonecalls are much harder to ignore or put off than emails or direct messages, and you make a much stronger social connection. Even if you don't have a direct number, you can call their organisation and ask to be put through to that person (also ask what their direct line is).
 
+Failing that, you can make an approach via direct message on their social media profile, or via email, but ask if you can call them to chat first if you can. The idea is to make a personal connection as soon as possible, which makes it more likely that they will agree to be interviewed.
 
-It's always best to approach someone by phone if you have found a number. Even if you don't have a direct number, you can call their organisation and ask to be put through to that person (also ask what their direct line is).
+When approaching a potential interviewee it's important to be professional and empathetic - but also persistent.
 
-If you think a direct approach may not be best, consider a go-between
+**Professionalism** will come in the way that you communicate: make sure that you explain who you are, and where the story would be going (e.g. Birmingham Eastside, or a publication you will be pitching to). 
+
+**Empathy** will come in the way that you consider the recipient in the way that you make any requests. For example, avoid making demands (your assignment is not their problem!), keep the message as short as possible (every word you write is a demand on their time) and be genuinely interested in talking to them so it doesn't feel like an exploitative exchange.
+
+**Persistence** will be demonstrated by following up on your initial approach and continuing to check in until you get a definitive response (yes or no). Don't be afraid to keep checking - sources will expect it of a journalist, and it's your job to get a result by your deadline. Just do it politely.
+
+If you think a direct approach may not be best, consider a **go-between**. That might be the press/media office for their organisation, or their agent if they have one, or simply someone you both know. Explain that you're looking to do an interview with the person in question, and ask would they put you in touch with them.
