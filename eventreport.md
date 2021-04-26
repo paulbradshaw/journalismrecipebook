@@ -58,3 +58,6 @@ Look at the examples linked above to get a feel for the structure of a panel rep
 * More background (and so on)
 * Towards the end of the article you might add a quote or two from other speakers, but not so much that it becomes a second article. One quote from each person should be enough, e.g. "*The meeting heard from Conservative MP David Davis, who said that FOI should be strengthened. “I think we need to put more pressure on the ICO to be more aggressive,” he said, adding that a new Official Secrets Act being discussed should not remove public interest clauses.*"). Ending on one of these quotes is a good way to wrap the story up.
 
+## Further ideas
+
+You might get more than one story out of a panel event based on different angles. But you might also get a **follow-up story** based on a reaction to what was said. For example, if a person or organisation was criticised, you might seek a response to that which might give you a story along the lines of 'X defends decision to do Y' or 'X: "quote defending Y"' or even "X to do Y following criticism". In that story the criticism will become background (a few pars down in that story).
