@@ -59,15 +59,19 @@ If you think a direct approach may not be best, consider a **go-between**. That 
 
 ## 3. Prepare questions
 
-Once they agree to the interview, prepare a list of questions. In the 'day in the life' feature, the format gives you the main question, i.e. "What's a typical day like for you?"
+Once they agree to the interview, prepare a list of questions. In the 'day in the life' feature, the format gives you the main question, i.e. "What's a typical day like for you?" but you can break down that question into smaller questions:
 
-But that question alone won't give you enough material for the story, so you will need to be prepared for **follow-up questions** and 
+* How do you start your day normally?
+* 
 
-Treat this as a **brainstorming exercise**: generate more questions than you need and expect to **ditch the questions that aren't good enough**. 
+But that question alone won't give you enough material for the story, so you will need to be prepared for **follow-up questions** and **prompts**.
 
-Choose questions that are likely to give you a strong angle to the story as a whole (i.e. those likely to generate newsworthy answers and new information) and be prepared to follow those up to get the extra information you'll also need to tell the story.
+For example, ask them to give **examples** of the things that they describe (anecdotes). 
 
-Consider the order of the questions: tougher questions might be left until later, for example, once the interviewee has relaxed a little and you've built a bit of a rapport, but don't leave them so late that you run out of time to deal with them. 
+Ask them to **explain** what certain terms mean or how particular processes work. In some cases the 'day in the life' format is used to explain how a role or process works, so digging deeper into that aspect can be particularly important.
+
+Remember again that the 'day' doesn't have to be a single day, so ask how each day differs.
+
 
 ## 6. Conduct the interview
 
