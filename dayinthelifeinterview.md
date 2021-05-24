@@ -69,7 +69,7 @@ Ask them to **explain** what certain terms mean or how particular processes work
 
 Remember again that the 'day' doesn't have to be a single day, so ask how each day differs.
 
-And remember that you will need details to **recreate** that day, so descriptions and other details are important.
+And remember that you will need details to **recreate** that day, so descriptions and other details are important. **Timings** are especially key if you are going to use a timestamp-based structure (see below).
 
 
 ## 4. Conduct the interview
@@ -82,10 +82,23 @@ Record the interview and make notes as well. It helps to include timestamps on t
 
 ## 5. Organise the information you have into a feature structure
 
+Look at examples of features using this approach to get an idea. For example *[A Day In The Life Of A Samaritans Volunteer](https://www.bustle.com/wellness/a-day-in-the-life-of-a-samaritans-volunteer)* has quite a few paragraphs before it gets started (too many?) and uses **timestamps** to break up the structure. 
+
+It's also **written in the first person** (make sure you explain to the interviewee that this is the style you will use). 
+
+The same structure is used by *[Day in the Life: Ceramicist Borja Moronta, whose creations include restaurant tableware, tells us about his day](https://www.edinburghnews.scotsman.com/lifestyle/food-and-drink/day-in-the-life-ceramicist-borja-moronta-whose-creations-include-restaurant-tableware-tells-us-about-his-day-3244904)*
+
+In contrast, *[A day in the life of a Palestine refugee student in the West Bank](https://reliefweb.int/report/occupied-palestinian-territory/day-life-palestine-refugee-student-west-bank)* is quote-driven and includes lots of background information. 
+
+Note that some stories headlined 'day in the life' are [actually Q&A interviews](https://www.journoresources.org.uk/jane-haynes-politics-people-editor-birminghamlive/), which is not the same thing (the 'day in the life' here is just the first question). The Guardian's [*A day in the life of...* section](https://www.theguardian.com/social-care-network/series/a-day-in-the-life-of) is also basically a Q&A. 
+
 The structure of the day in the life is straightforward: a chronological trip through their day. But *before* that you will need:
 
 * A headline that 'sells' the day in the life, typically with a hint of what it contains through key quotes or lists, e.g. *"We can't cope with demand" - a day in the life of a GP"* or *"A day in the life of a GP: skipped lunches, rushed appointments, and pet problems*
 * A **standfirst** before the article proper begins, which names the interviewer and justifies why the person is being interviewed *now* (a topical hook), e.g. "Ahead of a new world tour, JJ Smith tells Paul Bradshaw how he's spending all day every day making everything perfect"
+
+Only after those do you get the day starting:
+
 * The first steps of the day, e.g. "JJ Smith wakes up late most mornings."
 * An initial quote (ideally one of the most interesting ones) - get this in early, by the second or third par
 * Background, either to that quote or to the person more broadly
