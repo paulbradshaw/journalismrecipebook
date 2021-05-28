@@ -10,6 +10,7 @@ If you're struggling for story ideas a simple solution is to find someone to int
 6. Conduct the interview
 7. Organise the information you have into a feature structure
 
+
 ## 1. Identify someone worth interviewing
 
 An interview *feature* is different to a *news* story or a *vox pop*: it is longer, and the person being interviewed must justify that length. 
@@ -96,3 +97,5 @@ Look at [examples of interviews](https://pinboard.in/u:paulbradshaw/t:interview)
 * Background, either to that quote or to the person more broadly
 * Quotes and background, alternating, to keep the reader interested. You can also add colour to break it up further, e.g. "She shuffles in her chair before answering" or "A police car drives past and she is momentarily distracted".
 * End on a quote - something looking forward, or broadly reflective works well - and/or on factual details about what happens next/where you can find more information (e.g. "JJ Smith's tour begins in Salford on Saturday.")
+
+[Read an illustrated guide on how a feature is structured here](https://docs.google.com/document/d/e/2PACX-1vRBtckZdP61qLtaFH-Ea1k0nNH7TmhdqFdJrq4nks_0ZVu3rB-9ycrTUBepN-ty-JWoS2lW10zgmzBs/pub)
