@@ -18,7 +18,7 @@ Now you've identified the main players and their interests, do a bit of backgrou
 
 ## Write the 'profile'
 
-Your piece needs to lead on the 'new' information you're about to 'reveal', e.g. "McClaren are one of the most powerful companies in Formula 1 - but few people know about the complex web of businesses that lie behind it. Jane Smith reveals who the key players are - and how they are shaping the future of racing"
+Your piece needs to lead on the 'new' information you're about to 'reveal', e.g. "McLaren are one of the most powerful companies in Formula 1 - but few people know about the complex web of businesses that lie behind it. Jane Smith reveals who the key players are - and how they are shaping the future of racing"
 
 That is the standfirst, introducing the piece and the author. Next you have a first paragraph of the proper story, which might tease some of the key features you've found about the web (e.g. it includes a marketing expert and someone with a background in shipping).
 
