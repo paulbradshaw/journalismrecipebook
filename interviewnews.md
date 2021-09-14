@@ -35,3 +35,7 @@ Paraphrasing is also used to bridge, e.g. *Graham also did not shy away from the
 The final par of a news story generally adds something that is happening next, as in this case:
 
 > *Graham will join other trade union leaders virtually at the Trades Union Congress that begins this weekend and is expected to speak on Tuesday. It will come two weeks before Starmer’s first in-person speech since being elected Labour leader in April 2020.*
+
+## Other examples to learn from
+
+* [McCluskey accuses Starmer of reneging on pledge to reinstate Corbyn](https://www.theguardian.com/politics/2021/sep/13/len-mccluskey-accuses-keir-starmer-reneging-pledge-reinstate-jeremy-corbyn-labour) is a news story based on the guest opinion post [I trusted Keir Starmer – until I saw how he handled Jeremy Corbyn’s suspension](https://www.theguardian.com/commentisfree/2021/sep/13/keir-starmer-jeremy-corbyn-suspension) - notably the headline assumes the reader knows who "McCluskey" is - only do this if you're confident your audience will. 
