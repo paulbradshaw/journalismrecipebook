@@ -39,3 +39,12 @@ The final par of a news story generally adds something that is happening next, a
 ## Other examples to learn from
 
 * [McCluskey accuses Starmer of reneging on pledge to reinstate Corbyn](https://www.theguardian.com/politics/2021/sep/13/len-mccluskey-accuses-keir-starmer-reneging-pledge-reinstate-jeremy-corbyn-labour) is a news story based on the guest opinion post [I trusted Keir Starmer – until I saw how he handled Jeremy Corbyn’s suspension](https://www.theguardian.com/commentisfree/2021/sep/13/keir-starmer-jeremy-corbyn-suspension) - notably the headline assumes the reader knows who "McCluskey" is - only do this if you're confident your audience will. 
+* [Covid Anti-Vaxxers 'Thrive On Attention' Says Downing Street](https://www.huffingtonpost.co.uk/entry/anti-vaxxers-thrive-attention-downing-street_uk_61dc1e45e4b04b42ab8258e9) and [Boris Johnson Is 'Going Nowhere' Says Minister Amid Calls For PM To Resign](https://www.huffingtonpost.co.uk/entry/boris-johnson-going-nowhere-michael-ellis-downing-street-party-may-20_uk_61dd7eb1e4b0d637aea70683)
+ 
+You can spot the pattern:
+Headline: Something has been said by someone (in that order: statement, then 'says X')
+1st par: repeats same info from headline, with a few extra words
+2nd par: background ('it comes as'/'the claims/statement was made as...')
+3rd par: the quote in context ('asked X, Z replied: "quotey quote")
+4th-6th par: continued quote
+Further pars: more background
