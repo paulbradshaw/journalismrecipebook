@@ -20,6 +20,7 @@ Feature formats tend to be longer and less time-sensitive than news stories - bu
 * [How to do... an interview feature](https://github.com/paulbradshaw/journalismrecipebook/blob/main/interviewfeature.md)
 * [How to write: explainers](https://github.com/paulbradshaw/journalismrecipebook/blob/main/explainer.md) ('Everything you need to know about...')
 * [How to: write a 'day in the life' interview feature](https://github.com/paulbradshaw/journalismrecipebook/blob/main/dayinthelifeinterview.md)
+* [How to edit a 'first person account'](https://github.com/paulbradshaw/journalismrecipebook/blob/main/firstpersonaccount.md)
 * 'How to' story
 * 'Here are...' story
 * [Trend features](https://github.com/paulbradshaw/journalismrecipebook/blob/main/trendfeature.md)
