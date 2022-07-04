@@ -24,13 +24,25 @@ Once you've got it down 'on paper', you then need to move on to editing it.
 
 ## 2. Edit the account for structure, succinctness, concreteness, accuracy, and legal/ethical rigour
 
-The story of their experience may be important - but it will also need to be engaging enough for people to want to read the whole thing. A sound structure will make sure that people do not lose interest.
+The story of their experience may be important - but it will also need to be engaging enough for people to want to read the whole thing. A sound **structure** will make sure that people do not lose interest.
 
 Probably the most common structure will be a *chronological* one. This wouldn't be appropriate for a news story, which would use an inverted pyramid structure - but this will *not be a news story* (you should write a separate news article based on the account): it will be a '**news feature**'.
 
 Once you've ordered the account into chronological order, you might notice periods that are missing which a reader would have questions about. If that's the case, don't be afraid to go back to the source and ask more questions to fill those gaps.
 
-Now you need to make the story succinct: what might be an important detail to your source won't always be relevant to your audience, or to the core story. So go through your article and chop out any parts which will are digressions from the main events, or don't add to the story. A key test is: if the story still makes sense without a section, cut it out.
+Now you need to make the story **succinct**: what might be an important detail to your source won't always be relevant to your audience, or to the core story. So go through your article and chop out any parts which will are digressions from the main events, or don't add to the story. A key test is: if the story still makes sense without a section, cut it out.
 
-You need to make sure the story is accurate, and concrete. 
+You need to make sure the story is **accurate, and concrete**. Identify any places, people or organisations in the story and make sure that those are identified (concrete). If any details are vague, try to establish more detail. If a setting is important, ask for more description in case that helps engage the reader.
+
+Finally, you need to consider any **legal or ethical issues**. For example, if the account involves details that would cause the reader to think badly of a person or organisation, then you need to consider *defamation* law. If the story relates to an ongoing court case then *contempt* should be considered. And if it relates to a person's health or finances or other personal details, then *privacy* law and ethics should be considered. Consult with an editor (or tutor).
+
+## 3. Write a headline and standfirst
+
+Although the story is effectively 'by' the source, the headline and standfirst (a paragraph that introduces the article) are not. 
+
+For example, the headline of the example was *[‘Dejected and desperate’: the ordeal of a mental health patient left in limbo](https://www.theguardian.com/society/2022/jul/04/dejected-and-desperate-the-ordeal-of-a-mental-health-patient-left-in-limbo)*. 
+
+This combines a short quote with a colon, and then a second part which indicates that this is a first person account. While headlines are normally verb-led ('revealed', 'announces', 'launches' etc) this is more descriptive, with the verb *implied* by the quote (in this case she *felt* dejected and desperate and the fact that it is a quote implies that she *shares* her experience).
+
+
 
