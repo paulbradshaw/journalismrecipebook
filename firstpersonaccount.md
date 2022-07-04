@@ -10,8 +10,8 @@ Here, then, are the steps in editing such an account:
 
 1. Ask for, or create, a record of their experience
 2. Edit the account for structure, succinctness, accuracy, and legal/ethical rigour
-3. Write a standfirst
-4. Write a headline
+3. Write a headline
+4. Write a standfirst
 
 ## 1. Ask for, or create, a record of their experience
 
@@ -36,13 +36,27 @@ You need to make sure the story is **accurate, and concrete**. Identify any plac
 
 Finally, you need to consider any **legal or ethical issues**. For example, if the account involves details that would cause the reader to think badly of a person or organisation, then you need to consider *defamation* law. If the story relates to an ongoing court case then *contempt* should be considered. And if it relates to a person's health or finances or other personal details, then *privacy* law and ethics should be considered. Consult with an editor (or tutor).
 
-## 3. Write a headline and standfirst
+## 3. Write a headline 
 
 Although the story is effectively 'by' the source, the headline and standfirst (a paragraph that introduces the article) are not. 
 
 For example, the headline of the example was *[‘Dejected and desperate’: the ordeal of a mental health patient left in limbo](https://www.theguardian.com/society/2022/jul/04/dejected-and-desperate-the-ordeal-of-a-mental-health-patient-left-in-limbo)*. 
 
 This combines a short quote with a colon, and then a second part which indicates that this is a first person account. While headlines are normally verb-led ('revealed', 'announces', 'launches' etc) this is more descriptive, with the verb *implied* by the quote (in this case she *felt* dejected and desperate and the fact that it is a quote implies that she *shares* her experience).
+
+## 4. Write a standfirst
+
+The standfirst 'sums up' the story and comes before the quoted person's account. In the print edition of the story it's often in bold and/or italics. In fact, confusingly, [the online version](https://www.theguardian.com/society/2022/jul/04/dejected-and-desperate-the-ordeal-of-a-mental-health-patient-left-in-limbo) has *two* standfirsts. The first is this:
+
+> *The parents of Louise, 18, describe her ordeal as she waited for mental health support in an NHS A&E for eight days*
+
+And the second, which is the one used on its own in print, is this:
+
+> *David and Angela, the parents of the 18-year-old woman who endured an eight-and-a-half day-long spell in A&E waiting for a mental health bed, describe her and their ordeal.*
+
+I'd suggest that this is an oversight - you only really need one or the other. You also need to link this story to the news article it relates to, so the phrase "endured an eight-and-a-half day-long spell" should really be linked to that story.
+
+Notice that the standfirst isn't written in the voice of the person who is writing the account - it's the voice of the publication. It serves to introduce the person who is speaking (in this case David and Angela - normally you would include surnames unless there's a good reason not to) and what the article will cover. 
 
 
 
