@@ -26,6 +26,7 @@ Feature formats tend to be longer and less time-sensitive than news stories - bu
 * [Trend features](https://github.com/paulbradshaw/journalismrecipebook/blob/main/trendfeature.md)
 * [News features](https://github.com/paulbradshaw/journalismrecipebook/blob/main/newsfeature.md)
 * [The 'story behind' article](https://github.com/paulbradshaw/journalismrecipebook/blob/main/storybehind.md)
+* [A colour piece, or 'sketch'](https://github.com/paulbradshaw/journalismrecipebook/blob/main/colourpiece.md)
 
 
 ## Investigations
