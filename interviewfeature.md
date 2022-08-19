@@ -20,7 +20,7 @@ As a result, typical interviewees to consider are:
 * Someone with expertise (an academic expert, or someone at the top of their profession)
 * Someone with power to change people's lives (a politician or major employer for example)
 * Someone with a large number of followers interested enough to read about them (celebrities, major sportspeople)
-* Someone with a gripping personal story (it really has to be very unusual to justify an interview feature)
+* Someone with a gripping personal story (it really has to be very unusual to justify an interview feature) - or a [number of people with important stories around a topical theme](https://www.theguardian.com/lifeandstyle/2022/aug/13/black-women-around-world-share-birth-stories-pregnancy-racism)
 
 Those are listed in order of difficulty: finding someone with expertise and persuading them to speak to you is the easiest option; politicians and bosses take a little more work. Those with large followings may be in high demand and take more work. 
 
