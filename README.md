@@ -23,6 +23,7 @@ Feature formats tend to be longer and less time-sensitive than news stories - bu
 * [How to edit a 'first person account'](https://github.com/paulbradshaw/journalismrecipebook/blob/main/firstpersonaccount.md)
 * 'How to' story
 * 'Here are...' story
+* Listicles and charticles
 * [Trend features](https://github.com/paulbradshaw/journalismrecipebook/blob/main/trendfeature.md)
 * [News features](https://github.com/paulbradshaw/journalismrecipebook/blob/main/newsfeature.md)
 * [The 'story behind' article](https://github.com/paulbradshaw/journalismrecipebook/blob/main/storybehind.md)
