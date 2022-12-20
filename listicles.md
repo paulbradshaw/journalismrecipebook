@@ -28,10 +28,10 @@ The three main reasons are:
 
 
 
-2. Research the topic
-3. Select the pieces of information that are going to make up the items in your listicle
-4. Write the text of the listicle
-5. Add illustration for each item
-6. Edit the draft
-7. Publish!
+## 2. Research the topic
+## 3. Select the pieces of information that are going to make up the items in your listicle
+## 4. Write the text of the listicle
+## 5. Add illustration for each item
+## 6. Edit the draft
+## 7. Publish!
 
