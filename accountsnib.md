@@ -33,3 +33,32 @@ Here are three common models for writing a company accounts NIB:
 3. The 'quote' story: first par paraphrases something that was said in the report (e.g. warning about something); second par gives the specific quote and name of the person if known; third par adds a figure from the report, e.g. scale of profits or how much they went up or down
 
 Which one you choose depends on which aspect you think is most newsworthy. 
+
+Here are examples of each:
+
+### The change story
+
+Profits at online grocers Amozan increased by 20% in the latest financial year, according to newly published accounts.
+
+The company reported profits on £36m in the year to October 2022 - up from £30m the previous year. 
+
+Director Sam Hall said: "This year we have expanded into a number of new markets, where we have performed better than expected."
+
+
+### The scale story
+
+Online grocers Amozan have announced profits of £36m in their latest accounts.
+
+The figure, covering the year to October 2022, represents a rise of 20% on the previous year, when the company reported profits £30m. 
+
+Director Sam Hall said: "This year we have expanded into a number of new markets, where we have performed better than expected."
+
+
+### The quote story
+
+The director of online grocers Amozan says they intend to continue their expansion into new markets after new accounts showed a big incrfease in profits.
+
+Sam Hall, who took over as director last year, said: "This year we have expanded into a number of new markets, where we have performed better than expected. The strategic objective for the next 12 months is to expand even further."
+
+The company made profits of £36m in the year to October 2022, a rise of 20% on the previous year.
+
