@@ -8,6 +8,7 @@ News formats lead on **verbs**, e.g. something that has been done or said. Story
 
 * [How to: write a news story based on a panel event](https://github.com/paulbradshaw/journalismrecipebook/blob/main/eventreport.md)
 * [How to write: a NIB for a forthcoming council meeting](https://github.com/paulbradshaw/journalismrecipebook/blob/main/councilmeetingnib.md)
+* [How to write: a NIB for a company's accounts](https://github.com/paulbradshaw/journalismrecipebook/blob/main/accountsnib.md)
 * [How to write: a news story based on a blog post/statement](https://github.com/paulbradshaw/journalismrecipebook/blob/main/interviewnews.md)
 * Reaction stories 
 * 'Concerns raised'
