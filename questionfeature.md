@@ -27,10 +27,10 @@ Normally there needs to be a **news hook** for an explanatory feature: a topical
 Off the back of that story either the journalist has pitched a feature looking in more depth at the background to those concerns, or an editor has asked the reporter to write one.
 
 Look for these potential triggers for an exploratory feature:
-* Someone raises concerns (the explanatory feature would be 'Why is X worried about Y'). Example: *[What is happening to banks and why are people talking about a crisis?](https://www.independent.co.uk/business/what-is-happening-to-banks-and-why-are-people-talking-about-a-crisis-b2302205.html)*
+* Someone raises concerns (the explanatory feature would be 'Why is X worried about Y'). Example: [*Florida seaweed bloom: What is sargassum and why are people worried about it?*](https://www.bbc.co.uk/newsround/64894471) *[What is happening to banks and why are people talking about a crisis?](https://www.independent.co.uk/business/what-is-happening-to-banks-and-why-are-people-talking-about-a-crisis-b2302205.html)*
 * An event, such as a protest or attack (the explanatory feature might be 'Why did X happen')
 * An announcement of new action, or stopping of action (the explanatory feature might be 'Why is X doing/stopping Y') Example: [*Why are people talking about banning TikTok in the UK?*](https://uk.news.yahoo.com/why-are-people-talking-about-banning-tiktok-in-the-uk-125916930.html)
-* Someone is in the news. Example: [Who is Donald Trump and why are people talking about him?](https://www.bbc.co.uk/newsround/65014224)
+* Someone or something is in the news. Example: [*Who is Donald Trump and why are people talking about him?*](https://www.bbc.co.uk/newsround/65014224), [* What is ChatGPT and why does it matter? Here's what you need to know *](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/)
 
 Often an exploratory feature is also justified by the nature of the issue: in this case AI is a complex field which most people don't pay much attention to. You might get similar stories that raise (and answer) the question 'Why are people talking/worried/excited about X', or 'Why is organisation Y doing Z'.
 
