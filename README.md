@@ -32,6 +32,7 @@ Feature formats tend to be longer and less time-sensitive than news stories - bu
 * [How to write a news feature](https://github.com/paulbradshaw/journalismrecipebook/blob/main/newsfeature.md)
 * [How to write a 'story behind' article](https://github.com/paulbradshaw/journalismrecipebook/blob/main/storybehind.md)
 * [How to write a colour piece, or 'sketch'](https://github.com/paulbradshaw/journalismrecipebook/blob/main/colourpiece.md)
+* [How to write a 'trying it out' feature](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/tryingitout.md) based on an activity which is newly popular or topical
 
 
 ## Investigations
