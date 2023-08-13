@@ -68,3 +68,5 @@ Leave the headline until this stage.
 ## 8. Rewrite, edit again, and publish!
 
 Continue to redraft and write until it's ready to publish. Don't forget to write social media versions of it, too (not just repeat the headline).
+
+* *See also*: [The key to a longer life? Why I tried to walk exactly 3,967 steps in a day](https://www.theguardian.com/society/2023/aug/11/key-longer-life-why-walk-exactly-3967-steps-day) - this news feature follows up on news about a study that found 3,967 steps "was the exact number at which the risk of dying from any cause started to reduce". The editor has tasked the reporter "with hitting exactly 3,967 steps and making the most of every one".
