@@ -1,6 +1,6 @@
 # How to: write a colour piece, or 'sketch' feature
 
-A colour piece is a feature which describes what it is like to 'be there', typically at a major news event. Less important events wouldn't justify the extra article, so for that reason colour pieces are not as common as other types of feature. 
+A colour piece is a feature which describes what it is like to 'be there', typically at a major news event. Less important events wouldn't justify the extra article, so for that reason colour pieces are not as common as other types of feature. (An exception is *[What would happen if Russia invaded Finland? I went to a giant war game in London to find out](https://www.theguardian.com/politics/2023/sep/30/what-would-happen-if-russia-invaded-finland-i-went-to-a-giant-war-game-in-london-to-find-out)*.)
 
 Examples of major news events where an editor may commission a colour piece include:
 
