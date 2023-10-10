@@ -33,8 +33,39 @@ Here's another example:
 
 > Last year [35 restaurants failed food hygiene inspections](#). Explore the interactive map to see how your local restaurant did.
 
-## 3. Write any other paragraphs (optional)
+In this last case, you (or a colleague) has written a news story about how many restaurants have failed food hygiene inspections, and this interactive feature 'leads off' that story by providing extra depth. (The news story should link to this too at the end, driving traffic in both directions).
 
-## 4. Write the headline
+## 3. Embed the map - or a linked screenshot
+
+You can now embed the map underneath that paragraph. You should be able to get the embed code from the site you used to create the map. For more help on embedding, search Google for help on the particular platforms you're using to embed from (i.e. Datawrapper or Flourish) and to (e.g. Medium or WordPress etc.). For example, here is a guide to [how to embed visualizations in Medium articles](https://academy.datawrapper.de/article/202-how-to-embed-charts-in-medium-articles) and one on [embedding with Flourish](https://help.flourish.studio/article/15-share-or-embed-a-flourish-visualization).
+
+On Birmingham Eastside you can use the embed code but you will need to have certain permissions to use it. Contact Paul Bradshaw for help in using embed code on the site.
+
+If you cannot embed the map (WordPress.com, for example, does not allow you to use embed code), then: 
+
+* Take a screenshot of the map
+* Embed it in the article like any other image
+* Link the image to the live version hosted on Datawrapper or Flourish (when you publish your map on those sites, they will give you a direct link to it).
+* Don't forget to add an alternative description to the image describing what it shows
+* Add a caption inviting the reader to click on the image to visit the interactive version. The caption can include linked text too.
+* Edit your intro text so that the 'call to action' does the same, with a link there too
+
+## 4. Write any other paragraphs (optional)
+
+That intro par is enough on its own - but if you feel like the article justifies it, you can flesh out your interactive map feature by adding further pars with extra context. 
+
+[For example](https://www.birminghammail.co.uk/whats-on/food-drink-news/filthy-zero-star-hygiene-restaurants-27752327):
+
+>  According to the interactive map, there are dozens of establishments with zero food hygiene ratings dotted across the city - and many more with one and two stars which require improvement. All the premises listed below were shown on the Food Standards Agency as having a zero rating as of September 20, 2023. [this paragraph is followed by a bullet list of restaurants with low ratings]
+
+Or, [as in this example](https://www.theguardian.com/news/datablog/2013/jul/26/food-outlets-hygiene-ratings-datablog): 
+
+> Craigavon in Northern Ireland is the only local authority where 100% of food inspections resulted in a pass.
+>
+> By contrast, Sutton and Bexley fall well short of the national average 91% pass rate – scoring just 68% and 66% respectively. You can also use our interactive map to spot regional trends. It shows that the biggest concentration of unhygienic food outlets is to be found in London.
+
+## 5. Write the headline
+
+It's always easier to write the headline last. This essentially repeats the intro - but in a feature like this, focus on either the call to action, or the 
 
 ## 5. Publish!
