@@ -7,6 +7,7 @@ This repo contains recipes for creating different types of stories.
 News formats lead on **verbs**, e.g. something that has been done or said. Story ideas can be found in problems ("concerns raised"), new information ("report says"), events and interviews ("X says Y") and responses ("X defends Y"). News stories are generally short and **time-sensitive**: that is, they are only newsworthy for a limited period of time and then become 'old news'.
 
 * [How to: write a news story based on a panel event](https://github.com/paulbradshaw/journalismrecipebook/blob/main/eventreport.md)
+* [How to: write a news story based on new data](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/datanewsstory.md)
 * [How to write: a NIB for a forthcoming council meeting](https://github.com/paulbradshaw/journalismrecipebook/blob/main/councilmeetingnib.md)
 * [How to write: a NIB for a company's accounts](https://github.com/paulbradshaw/journalismrecipebook/blob/main/accountsnib.md)
 * [How to write: a news story based on a blog post/statement](https://github.com/paulbradshaw/journalismrecipebook/blob/main/interviewnews.md)
