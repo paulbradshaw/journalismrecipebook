@@ -66,6 +66,24 @@ Or, [as in this example](https://www.theguardian.com/news/datablog/2013/jul/26/f
 
 ## 5. Write the headline
 
-It's always easier to write the headline last. This essentially repeats the intro - but in a feature like this, focus on either the call to action, or the 
+It's always easier to write the headline last. This essentially repeats the intro - but in a feature like this, you have a few different options. One option is to focus on the fact that something has been mapped. For example:
+
+> Mapped: every crime in your area
+>
+> Bike theft in Greater Manchester: every crime mapped
+
+A second option is to focus on the call to action
+
+> Which restaurants failed hygiene inspections in your area? Find out with this interactive map
+>
+> Explore crime in your area with this interactive map
+
+A third option is to use the 'Here is/are' formulation:
+
+> Here are the restaurants getting top ratings in your area
+>
+> Here are the places where police stopped and searched people last month
 
 ## 5. Publish!
+
+These articles shouldn't take too long - especially if you use a paragraph-and-map approach. Once you're ready, click publish and start talking about the story on social media. Remember you can tell a different story there, too - you can write a thread about the data, and then point to the map at the end, or tell a story about some of the most interesting points on the map. 
