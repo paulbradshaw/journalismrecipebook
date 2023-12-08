@@ -83,3 +83,5 @@ Once you've completed a second edit, look at it again - a good article is edited
 ## 7. Publish!
 
 Once it's ready to go, publish the piece and share on social media. 
+
+Note: one form of listicle is the 'in numbers' listicle: you can [find a guide to writing that here](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/bythenumbers.md)
