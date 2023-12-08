@@ -1,12 +1,15 @@
-# How to: write a 'by the numbers' story
+# How to: write an 'in numbers' story
 
-One common follow-up done in response to a news story, is a 'by the numbers' feature.
+One common follow-up done in response to a news story, is an 'in numbers' feature.
 
 This is in some ways a form of [explainer](https://github.com/paulbradshaw/journalismrecipebook/blob/main/explainer.md). Its objective is to help readers understand a current news event by putting it into the context of key facts - numbers - related to it.
 
+Examples include *[Last Orderrrrs! Speaker John Bercow's career in numbers](https://www.bbc.co.uk/news/uk-politics-50237401.amp)*; *[IN NUMBERS: How Verstappen compares to other F1 greats at this stage of his career](https://www.formula1.com/en/latest/article.in-numbers-how-verstappen-compares-to-other-f1-greats-at-this-stage-of-his.m8QeD2t7xQGjmY4tqTd0q.html)*; *[The African games industry in numbers](https://www.gamesindustry.biz/the-african-games-industry-in-numbers)*; *[In numbers: How coronavirus has taken its toll on Scotland](https://news.stv.tv/scotland/in-numbers-how-coronavirus-is-taking-its-toll-on-scotland)*' *[White Christmas in numbers: 60 years of snow days in Tayside and Fife
+](https://thecourier.co.uk/fp/news/scotland/3998065/white-christmas-in-numbers/)*. Some of those stories are data-driven, while others don't use data as effectively as they could.
+
 Here's how to write it:
 
-1. Identify an event which might justify a 'by the numbers' treatment - anything involving measurable things (money, success, performance) could work
+1. Identify an event which might justify an 'in numbers' treatment - anything involving measurable things (money, success, performance) could work
 2. Brainstorm what qualities related to the event/person/organisation might be measured somewhere - and narrow to a list of those best for the story
 3. Research a range of sources to find key figures
 4. Enter them in a spreadsheet
@@ -14,9 +17,9 @@ Here's how to write it:
 6. Write up the story
 
 
-## 1. Identify an event which might justify a 'by the numbers' treatment - anything involving measurable things (money, success, performance) could work
+## 1. Identify an event which might justify an 'in numbers' treatment - anything involving measurable things (money, success, performance) could work
 
-Here are some examples of news events and 'by the numbers' features that could be done in response:
+Here are some examples of news events and 'in numbers' features that could be done in response:
 
 * Event: Emma Hayes is appointed as the coach of the US women's football team.
 
@@ -90,4 +93,13 @@ Those charts will then form the spine of the story. Here's how to write it up:
 **Other points**: Repeat this pattern for each subsequent point - you can structure your article as a series of 5 or so points.
 
 **Ending**: End by telling us what happens next (when does the manager take up her new role) or where the reader can find out more.
+
+These are just general guidelines, and it's always good to look at examples for a structure to work by. For example, *[Formula 1: Lewis Hamilton breaks pole record - how he did it in numbers](https://www.bbc.co.uk/sport/formula1/41003336)* doesn't use a formal standfirst (i.e. not one that is separate to the story); but it uses the first 3 pars to perform the same function: establish the topical hook ("Lewis Hamilton has broken Michael Schumacher's career pole positions record by taking the 69th of his career.") and then set out what the article will do ("BBC Sport takes a look at Hamilton's record in numbers.")
+
+It also uses a series of key themes or questions - in subheadings - as the structure of the piece (if you raise a question you have to answer it): How often does Hamilton translate pole to victory? How does that compare to the other greats? Does pole always lead to podium? McLaren or Mercedes? Hamilton versus his team-mates; and Is Hamilton F1's best qualifier in history? Note that they could have made better use of charts here. 
+
+More chart-y is *[White Christmas in numbers: 60 years of snow days in Tayside and Fife](https://www.thecourier.co.uk/fp/news/scotland/3998065/white-christmas-in-numbers/)*. This raises a question in its standfirst, but the first two pars perform a similar function of establishing the topical event and then introducing what the article will do ("we’ve looked at the number of white Christmases across the country going back to 1959, and where has had the most snowfall days.")
+
+After that, again it's a series of subheadings that raise questions each section will answer: How do we determine what is a White Christmas? How likely is a white Christmas, anyway? Where’s the most likely place to see a white Christmas?
+
 
