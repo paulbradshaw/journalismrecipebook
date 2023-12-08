@@ -62,3 +62,5 @@ Consider whether your subject might be best structured around sub-questions, eve
 Consider whether you might use a listicle or charticle format, too. Or you might use a **conversational** format, as in *[Why do new medicines cost so much, and what can we do about it?](https://www.theguardian.com/news/2018/apr/09/why-do-new-medicines-cost-so-much-and-what-can-we-do-about-it)*
 
 You can [find resources on explainers here](https://pinboard.in/u:paulbradshaw/t:explainers) and [examples here](https://pinboard.in/u:paulbradshaw/t:explainer), including [video expliners](https://pinboard.in/u:paulbradshaw/t:explainer+video). A [video explaining how to do explainers can be found here](https://www.youtube.com/watch?v=RU9gkzcUgBE), and a [follow-up video here](https://www.youtube.com/watch?v=pg-r0RQ0wTM&list=PL-ZV9BlgytWilseA-MrJb3VXo2yIzSVOi&index=10).
+
+Note: one form of explainer is the 'in numbers' feature: you can [find a guide to writing that here](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/bythenumbers.md)
