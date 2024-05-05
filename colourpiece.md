@@ -6,7 +6,7 @@ Examples of major news events where an editor may commission a colour piece incl
 
 * Major sporting events (such as a Champions League or Wimbledon final, an Olympics or Commonwealth Games, etc)
 * Major trial (something with widespread attention, such as the Wagatha Christie trial, or Johnny Depp vs Amber Heard for example)
-* A major political event, such as the resignation of a prime minister
+* A major political event, such as the resignation of a prime minister or a [mayoral election](https://www.birminghamdispatch.co.uk/p/a-day-of-high-drama-inside-the-toppling?utm_source=substack&publication_id=2048775&post_id=144326893&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=false&r=h8or&triedRedirect=true)
 
 Whereas news events focus on the facts of news events (what happened, when, with who, where, how and why), and interview features focus on what someone has said, the colour feature focuses on *details* that provide a different type of insight into the event in question. For example, if the news event was the Wimbledon final, then here are the different stories that might be commissioned:
 
@@ -18,7 +18,7 @@ Gathering those details takes some planning: you will almost certainly need to t
 
 ## Working through an example
 
-One example to look at for ideas and inspiration is [Bowls, boxing, basketball: Birmingham’s bonanza of sport](https://www.theguardian.com/sport/2022/jul/29/bowls-boxing-basketball-birminghams-bonanza-of-sport).
+One example to look at for ideas and inspiration is [Bowls, boxing, basketball: Birmingham’s bonanza of sport](https://www.theguardian.com/sport/2022/jul/29/bowls-boxing-basketball-birminghams-bonanza-of-sport). 
 
 In this case the major news event - the justification for writing - is the Commonwealth Games. The journalist, Andy Bull, has had to decide which locations to go to in order to gather the details he needs for his feature - the 'colour', in other words. He decides to go to Leamington Spa, the NEC, and Smithfield in central Birmingham. Leamington Spa was probably chosen because background research would have pointed him towards the bowls taking part there as being one of the quirkier games, with Fiji sending 0.5% of their population to compete in that event. This allows him to pick out some of those odd details. The boxing at the NEC also allows him to focus on some underdogs; and the 3x3 basketball at Smithfields is a new event, so is more newsworthy. 
 
