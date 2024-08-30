@@ -36,6 +36,8 @@ What this line also does is avoid the 'false balance' problem in choosing a 50/5
 
 Notably also, alongside the 'person on the street' interviews, the story still seeks out some voices with authority to provide some vital context at the end: Amy North, the editor of British Baker magazine, and Adam Leyland, the editor-in-chief of the Grocer. 
 
+Another example is [‘I don’t see how it’s enforceable’: pubgoers react to idea of beer garden smoking ban](https://www.theguardian.com/society/article/2024/aug/29/smoking-ban-beer-gardens-reaction): this story again focuses on a specific location related to a news story and the people spoken to represent a cross-section of those likely to be directly affected by it.
+
 ### How to write a vox pop feature
 
 1. Identify a current story that relates to a specific location that can be visited 
