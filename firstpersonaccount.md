@@ -6,16 +6,21 @@ One example is *[‘Dejected and desperate’: the ordeal of a mental health pat
 
 I say 'written' because it would be unusual for a person's account to be published exactly as it was written - if someone isn't a journalist themselves, it is rare for them to write an account in a way that would make it ready to be published without any editing. 
 
+A slightly different approach is shown in *['‘I was screamed at for incorrectly spreading Marmite’: life as a runner in the UK film and TV industry'](https://www.theguardian.com/media/2024/oct/30/life-as-a-runner-in-the-uk-film-and-tv-industry)*. In this case, a number of first person accounts are combined.
+
+Both are written as **'follow ups' to a news story**: '*[Woman suffering mental health crisis left waiting eight days in A&E](https://www.theguardian.com/society/2022/jul/04/woman-suffering-mental-health-crisis-left-waiting-eight-days-in-ae)*' and '*[Actor Richard E Grant says daughter was treated 'appallingly' by stars while working as a runner](https://news.sky.com/video/actor-richard-e-grant-says-daughter-was-treated-appallingly-by-stars-while-working-as-a-runner-13238307)*. This provides the justification for the account. 
+
 Here, then, are the steps in editing such an account:
 
 1. Ask for, or create, a record of their experience
 2. Edit the account for structure, succinctness, accuracy, and legal/ethical rigour
 3. Write a headline
 4. Write a standfirst
+5. Optional: add context
 
 ## 1. Ask for, or create, a record of their experience
 
-When you encounter, or are approached by, the person with the experience you will need to get as much information as possible. This will depend on what information they've already given you:
+When you find, or are approached by, the person with the experience you will need to get as much information as possible. This will depend on what information they've already given you:
 
 * If they have sent you a written account, then you will probably need to ask follow-up questions to flesh it out and clarify certain aspects (see the editing stage below for some pointers)
 * If they have only mentioned the experience, then you will need to ask if you could speak to (or correspond with) them to record enough details about the experience to fill an article. Try to get them to describe the experience from the start - including any events before the experience itself which are important in putting it into context.
@@ -58,5 +63,15 @@ I'd suggest that this is an oversight - you only really need one or the other. Y
 
 Notice that the standfirst isn't written in the voice of the person who is writing the account - it's the voice of the publication. It serves to introduce the person who is speaking (in this case David and Angela - normally you would include surnames unless there's a good reason not to) and what the article will cover. 
 
+## 5. Optional: add any other contextual information 
 
+Some parts of the story may need fleshing out or explaining. In the health story, that's done as if it's the words of the parents, in sections like this:
+
+> That’s called a section two. That order, made under the Mental Health Act, can last for 28 days and is the most common way people with mental health problems are detained or ‘sectioned’.
+
+It's unlikely that the parents actually wrote that sentence originally - instead, the journalist will have likely encountered them mentioning a 'section two' and needed to flesh that out so the audience knows what they're talking about (letting the parents know that's what he's added, and checking that's OK). 
+
+In the story about a runner, it's done in sections between quotes, like so:
+
+> The industry says it is aware of the problem and is taking steps to address it. Broadcasters and stars have voiced support for a new body, the Creative Industries Independent Standards Authority.
 
