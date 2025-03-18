@@ -86,3 +86,9 @@ End the story by looking ahead to what happens next. It might be a forthcoming d
 Once the article is done, you can write your headline. This should repeat your intro, only in fewer words and in the present tense. The vaping story, for example, is headlined: 
 
 > Number of young women vaping daily in the UK more than triples
+
+More examples: 
+
+* [Possession of drugs fell last year](https://birminghameastside.com/possession-of-drugs-fell-last-year/)
+* [More than 5,000 deaths by suicide occurred this past year](https://birminghameastside.com/more-than-5000-deaths-by-suicide-occurred-this-past-year/)
+* [Revealed: theatre group’s near-equal gender split](https://birminghameastside.com/revealed-theatre-groups-near-equal-gender-split/)
