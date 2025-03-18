@@ -63,7 +63,17 @@ If you can't get a new quote, then you can introduce something that someone has 
 
 You could identify another dimension to the data which gives your story a new lease of life - a new 'chapter'. For example, we could say that the data *also* reveals something else happening. 
 
-Be careful with this, though - the secondary angle should be exactly that: secondary. It should take up much less space than the main angle, perhaps a few pars at most, and then it should end. To go on longer would risk it losing its focus and shape as a news article (it would become a feature and have to be rewritten in that vein).
+Be careful with this, though - the secondary angle should be exactly that: secondary. It should take up much less space than the main angle, perhaps a few pars at most, and then it should end. To go on longer would risk it losing its focus and shape as a news article (it would become a feature and have to be rewritten in that vein). In the vaping example this is the secondary dimension:
+
+> Meanwhile, the proportion of people smoking fell to its lowest level since comparable figures began. Just 11.2% of people aged 16 and over said they smoked, down from 12.7% last year – continuing a downward trend seen since at least 1974.
+
+Note: for a shorter story, this secondary dimension can be the third or final paragraph in the story, instead of extra context or quotes. So that vaping story could be shortened to the following three paragraphs:
+
+> The number of young women vaping every day in the UK more than tripled in the last year, according to government figures.
+>
+> Data released by the Office for National Statistics (ONS) showed that one in 15 women (6.7%) aged 16-24 vaped daily in 2022 – up from fewer than one in 50 (1.9%) in 2021 – with young women overtaking their male counterparts for e-cigarette usage.
+>
+> Meanwhile, the proportion of people smoking fell to its lowest level since comparable figures began. Just 11.2% of people aged 16 and over said they smoked, down from 12.7% last year – continuing a downward trend seen since at least 1974.
 
 ## 6. Add some information about what comes next
 
