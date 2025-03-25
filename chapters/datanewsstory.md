@@ -20,7 +20,7 @@ Attribute who that is 'according to' *after* you have stated what's happened, no
 
 Avoid specific numbers in the first par: talk in broad terms and then fill in the details later...
 
-## Add some context on when, who and where the data relates to
+## 2. Add some context on when, who and where the data relates to
 
 Having said 'what' is happening, and probably 'who', your second par should add further details not provided in the first par, such as:
 
