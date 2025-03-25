@@ -81,7 +81,7 @@ End the story by looking ahead to what happens next. It might be a forthcoming d
 
 > The Home Office said that any instance of hate crime was “one too many” and that it expected the police to “fully investigate” all such incidents and “make sure the cowards who commit them feel the full force of the law”.
 
-## Write a headline based on your intro
+## 7. Write a headline based on your intro
 
 Once the article is done, you can write your headline. This should repeat your intro, only in fewer words and in the present tense. The vaping story, for example, is headlined: 
 
