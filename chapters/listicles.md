@@ -76,7 +76,7 @@ Once you've completed your draft, make sure you edit it.
 * Check that every claim is attributed
 * Check you've linked to sources
 * Check that every item has earned its place - will the listicle still make sense if you remove an item? Then it can probably go.
-* Check that every word has earned its place - its common to overwrite your first draft, so look to cut words and whole sentences out in your second.
+* Check that every word has earned its place - it's common to overwrite your first draft, so look to cut words and whole sentences out in your second.
 
 Once you've completed a second edit, look at it again - a good article is edited multiple times. 
 
@@ -85,3 +85,5 @@ Once you've completed a second edit, look at it again - a good article is edited
 Once it's ready to go, publish the piece and share on social media. 
 
 Note: one form of listicle is the 'in numbers' listicle: you can [find a guide to writing that here](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/bythenumbers.md)
+
+Another form is the charticle: [read about how to create a charticle here](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/charticle.md)
