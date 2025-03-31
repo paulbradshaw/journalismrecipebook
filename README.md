@@ -29,8 +29,9 @@ Feature formats tend to be longer and less time-sensitive than news stories - bu
 * 'How to' story
 * 'Here are...' story
 * [How to write a listicle](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/listicles.md)
-* [How to write a trend feature](https://github.com/paulbradshaw/journalismrecipebook/blob/main/trendfeature.md)
+* [How to write a 'charticle'](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/charticle.md)
 * [How to write an 'in numbers' feature](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/bythenumbers.md)
+* [How to write a trend feature](https://github.com/paulbradshaw/journalismrecipebook/blob/main/trendfeature.md)
 * [How to write a news feature](https://github.com/paulbradshaw/journalismrecipebook/blob/main/newsfeature.md)
 * [How to write a 'story behind' article](https://github.com/paulbradshaw/journalismrecipebook/blob/main/storybehind.md)
 * [How to write a colour piece, or 'sketch'](https://github.com/paulbradshaw/journalismrecipebook/blob/main/colourpiece.md)
