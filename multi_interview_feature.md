@@ -30,3 +30,57 @@ Planning a multi-interview involves the following:
 8. Draft the story
 9. Edit the story
 10. Publish and distribute!
+
+## 1. Identify the issue you are going to explore
+
+A multi-interview feature takes time - not just yours, but the readers' as well, because it will be long. At least 800 words, often 1,200-1,500 words, and sometimes longer.
+
+So you need to pick an issue which justifies that time and effort. 
+
+Look for issues which are topical, and still likely to be topical by the time your story goes live. 
+
+## 2. Conduct background research to identify potential themes/sections
+
+Once you've identified the issue - don't leap into doing interviews. First decide what the 'themes' might be in your feature. 
+
+Background research will help you understand what the talking points are, what the history is, and who the key figures are. It will stop you making basic errors once you contact people and start to talk to them - interviewees will lose patience quickly with a journalist who hasn't done their research.
+
+Make a note of any potential interviewees as you go along. 
+
+## 3. Choose the sections your story will have (the themes)
+
+Because of its length, a multi-interview feature is often divided into sections, each of which explores a different theme in the issue. 
+
+An issue might have many themes you *could* explore, so you'll need to decide which ones you *will* explore. In order to 
+
+Typical sections include what it's like to experience the issue; causes; trends; and what is being done about the issue. Another approach is to organise the feature geographically, with each section focusing on a different country or area. 
+
+## 4. Identify a list of a range of potential interviewees you can speak to
+
+Once you know your sections, you can start to list potential interviewees. You'll need a list of people who, between them, can answer all the questions your sections aim to answer.
+
+And you'll need a list many times longer than the number of interviews you hope to do - because for every 10 people you approach, 90% are likely to say no, ignore you, or say yes but never come through.
+
+## 5. Organise the interviews
+
+Make as many approaches as you can to the potential interviewees, and start setting up interviews. Don't worry about having too many interviews because at least some will fall through, and having too much information is always better than having too little (you can always use material for more than one story).
+
+## 6. Plan the interviews
+
+If you've done your background research properly then your interviews can focus only on what your interviewee knows, rather than basic facts you can find online. Make a list of questions that focus specifically on the areas your feature plans to tackle - why, how, what, and so on.
+
+## 7. Conduct the interviews, including photos and other media
+
+Don't forget the visual side of your story: consider asking your interviewee for any relevant media (photos, audio clips, video footage) that might bring your story to life. Get photos of your interviewee and their surroundings. 
+
+## 8. Draft the story
+
+Use the sections you planned to draft the story, including gaps with questions you still need to get answers for.
+
+## 9. Edit the story
+
+Allow yourself time to check the story for typos, factual accuracy, and structure. Cut things out that aren't essential, to make it punchy and engaging.
+
+## 10. Publish and distribute!
+
+Once it's ready to go, don't just publish - think about how the story can be told across social media too, to bring in as wide an audience as possible.
