@@ -1,6 +1,24 @@
 # The journalism recipe book
 
-This repo contains recipes for creating different types of stories.
+This page contains links to a set of 'recipes' for writing different types of journalistic stories.
+
+One of the most common mistakes made by journalism students is to set out to report a story without identifying the format that they are writing in first.
+
+The format of your story will determine everything from the type of angle you adopt, to the people you interview, and the structure that the story takes. It also determines what your audience expects you to deliver.
+
+So, before you set out to write a story, ask yourself the following:
+
+*Is this story going to **reveal** something new? Or is it going to **explore** something or someone?*
+
+A story that *reveals* something is a **news** story. 
+
+A story that *explores* something or someone is a **feature** story.
+
+Those two genres guide everything that follows: 
+
+A news story, for example, will lead on the new thing, be objective (you won't use the word "I" anywhere or give your opinion), and generally shorter.
+
+A feature story, on the other hand, will lead on a summary of what the story will do (and, often, why it's worth reading now). It will be longer, and often have sections.
 
 ## News formats
 
