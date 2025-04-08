@@ -10,17 +10,17 @@ So, before you set out to write a story, ask yourself the following:
 
 *Is this story going to **reveal** something new? Or is it going to **explore** something or someone?*
 
-A story that *reveals* something is a **news** story. 
+* A story that *reveals* something is a **news** story. 
+* A story that *explores* something or someone is a **feature** story.
 
-A story that *explores* something or someone is a **feature** story.
+News and features are the two overarching **formats**, or **genres**, that all stories come under. They set the expectations of the audience, and guide everything that you do: 
 
-Those two genres guide everything that follows: 
+* A news story, for example, will lead on the new thing, be objective (you won't use the word "I" anywhere or give your opinion), and generally shorter. Almost all news stories have the same structure, called the inverted pyramid.
+* A feature story, on the other hand, will lead on a summary of what the story will do (and, often, why it's worth reading now). It will be longer, and often have sections. Features can have lots of different structures, because there are lots of different sub-genres of feature, and you'll need to decide which sub-genre you are writing.
 
-A news story, for example, will lead on the new thing, be objective (you won't use the word "I" anywhere or give your opinion), and generally shorter.
+Below are a list of news and feature genres/formats, and links to recipes on how to write each type.
 
-A feature story, on the other hand, will lead on a summary of what the story will do (and, often, why it's worth reading now). It will be longer, and often have sections.
-
-## News formats
+## News format recipes
 
 News formats lead on **verbs**, e.g. something that has been done or said. Story ideas can be found in problems ("concerns raised"), new information ("report says"), events and interviews ("X says Y") and responses ("X defends Y"). News stories are generally short and **time-sensitive**: that is, they are only newsworthy for a limited period of time and then become 'old news'.
 
@@ -33,7 +33,7 @@ News formats lead on **verbs**, e.g. something that has been done or said. Story
 * 'Concerns raised'
 * 'New report says'
 
-## Feature formats
+## Feature format recipes
 
 Feature formats tend to be longer and less time-sensitive than news stories - but they typically follow a news story and have a **topical hook** (a reason why they're being written now). An explainer is normally writte about a subject because it's in the news at the moment, for example, and a person might be interviewed because they have a connection to something newsworthy (their experience or expertise connects to it, for example).
 
