@@ -1,0 +1,5 @@
+# The news feature
+
+A news feature is a story that follows a feature format (it doesn't use the inverted pyramid structure), but appears in the news section. Examples include *[‘It’s about the people’: communities come together for jubilee street parties](https://www.theguardian.com/uk-news/2022/jun/03/platinum-jubilee-street-party-celebrations)* and *[Orgasm gap: how Hollywood and science neglected female pleasure](https://www.theguardian.com/society/2022/jun/11/orgasm-gap-how-hollywood-and-science-neglected-female-pleasure?CMP=Share_iOSApp_Other)*. 
+
+Typically it's a deeper dive into a subject that has a clear angle. For example, the news angle on the jubilee street party news feature is 'communities are having jubilee street parties' but the format is a collection of interviews. Likewise the news angle on the 'orgasm gap' story is 'new film takes unusual approach to female orgasms' but the format is a collection of interviews with, and quotes from, experts, exploring the wider issue.
