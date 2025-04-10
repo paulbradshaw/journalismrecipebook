@@ -79,3 +79,7 @@ There are many genres of podcast. Each has a different structure, conventions, a
 ## Social video
 
 If your story is going to be told through video, make sure you identify what type of video it will be. There are many different social video genres and formats. [Here's a table that breaks down video genres, and how they differ in terms of conventions, structure, and objective](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/video.md).
+
+## Pitching
+
+[Tips on pitching stories can be found here](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/pitching.md)
