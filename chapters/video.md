@@ -1,6 +1,6 @@
 # Social video genres
 
-If your story is going to be told through video, make sure you identify what type of video it will be. There are many different social video genres and formats. Here's a table with 11 different genres, and how they differ in terms of conventions, structure, and objective.
+If your story is going to be told through video, make sure you identify what type of video it will be. There are many different social video genres and formats. Here's a table with 13 different genres, and how they differ in terms of conventions, structure, and objective.
 
 | **Type** | **Purpose** | **Key Conventions** | **Structure** | **Best Platforms** |
 |----------|-------------|----------------------|----------------|--------------------|
