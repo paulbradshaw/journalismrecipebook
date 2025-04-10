@@ -59,8 +59,23 @@ Feature formats tend to be longer and less time-sensitive than news stories - bu
 * [How to write a historical feature](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/historicalfeature.md)
 
 
-## Investigations
+### Investigations
 
-Investigations can involve a number of stories - both news formats and feature formats. 
+Investigations can involve a number of stories - both news formats and feature formats. Here are some ideas:
 
 * [The refused FOI request (using alerts on WDTK)](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/foialerts.md)
+* Scrollytelling
+* Narrative journalism
+* An investigative series
+* Campaigning journalism
+* Solutions journalism
+* 'Revealed'
+* 'How we did it'
+
+## Podcasts
+
+There are many genres of podcast. Each has a different structure, conventions, and objective. Decide what genre you intend to make before you get too far into the production process by [checking this table of genres](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/podcasts.md)
+
+## Social video
+
+If your story is going to be told through video, make sure you identify what type of video it will be. There are many different social video genres and formats. [Here's a table with 11 different genres, and how they differ in terms of conventions, structure, and objective](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/video.md).
