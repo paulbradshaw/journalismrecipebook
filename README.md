@@ -1,6 +1,6 @@
 # The journalism recipe book
 
-This page contains links to a set of 'recipes' for writing different types of journalistic stories.
+This page contains links to a set of 'recipes' for producing different types of journalistic stories (text, audio or video).
 
 One of the most common mistakes made by journalism students is to set out to report a story without identifying the format that they are writing in first.
 
