@@ -25,6 +25,7 @@ Below are a list of news and feature genres/formats, and links to recipes on how
 News formats lead on **verbs**, e.g. something that has been done or said. Story ideas can be found in problems ("concerns raised"), new information ("report says"), events and interviews ("X says Y") and responses ("X defends Y"). News stories are generally short and **time-sensitive**: that is, they are only newsworthy for a limited period of time and then become 'old news'.
 
 * [How to: write a news story based on a panel event](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/eventreport.md)
+* [How to: write a story based on a talk](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/talkstory.md)
 * [How to: write a news story based on new data](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/datanewsstory.md)
 * [How to write: a NIB for a forthcoming council meeting](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/councilmeetingnib.md)
 * [How to write: a NIB for a company's accounts](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/accountsnib.md)
