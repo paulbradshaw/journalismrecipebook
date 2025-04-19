@@ -29,6 +29,7 @@ News formats lead on **verbs**, e.g. something that has been done or said. Story
 * [How to: write a news story based on new data](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/datanewsstory.md)
 * [How to write: a NIB for a forthcoming council meeting](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/councilmeetingnib.md)
 * [How to write: a NIB for a company's accounts](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/accountsnib.md)
+* [How to write: a news story adapted from an interview feature or video](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/newsinterview.md)
 * [How to write: a news story based on a blog post/statement](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/interviewnews.md)
 * Reaction stories 
 * 'Concerns raised'
