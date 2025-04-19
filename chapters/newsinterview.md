@@ -78,13 +78,14 @@ The Affleck story, on the other hand, looks back, which is less effective as an 
 
 > *Affleck’s Batsuit is not the first to attract criticism, with the “nipple suit” George Clooney wore for Batman & Robin in 1997 often cited as one of the reasons for the film’s poor performance.*
 
-## Other examples to learn from
+## Spot the pattern
  
 You can spot the pattern:
-Headline: Something has been said by someone (in that order: statement, then 'says X')
-1st par: repeats same info from headline, with a few extra words
-2nd par: full quote and source ('Speaking to the BBC, X said:')
-3rd par: background or further quote but partly paraphrased ('X said that he also felt Y. "Quotey quote"')
-Further pars: background context breaks up further quotes
+
+* Headline: Something has been said by someone (in that order: statement, then 'says X')
+* 1st par: repeats same info from headline, with a few extra words
+* 2nd par: full quote and source ('Speaking to the BBC, X said:')
+* 3rd par: background or further quote but partly paraphrased ('X said that he also felt Y. "Quotey quote"')
+* Further pars: background context breaks up further quotes
 
 
