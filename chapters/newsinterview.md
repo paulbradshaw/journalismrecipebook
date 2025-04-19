@@ -20,6 +20,8 @@ The steps to do this are as follows:
 3. Bridge to further quotes by adding more context and paraphrasing
 4. End by looking ahead to what comes next
 
+*Note: the same recipe can be used to [write a story based on a blog post or guest piece](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/interviewnews.md)*
+
 ## 1. Identify the 'top line' as use that for the headline and first paragraph
 
 Look at the interview and decide what's the most newsworthy thing that's been said. This is often described as the 'top line' in a news story. Your headline is likely to be quote-driven, e.g. '"Y", says X" or 'X: "Y"'.
