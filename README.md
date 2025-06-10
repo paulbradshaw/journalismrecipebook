@@ -18,7 +18,7 @@ News and features are the two overarching **formats**, or **genres**, that all s
 * A news story, for example, will lead on the new thing, be objective (you won't use the word "I" anywhere or give your opinion), and generally shorter. Almost all news stories have the same structure, called the inverted pyramid.
 * A feature story, on the other hand, will lead on a summary of what the story will do (and, often, why it's worth reading now). It will be longer, and often have sections. Features can have lots of different structures, because there are lots of different sub-genres of feature, and you'll need to decide which sub-genre you are writing.
 
-Below are a list of news and feature genres/formats, and links to recipes on how to write each type.
+Below are a list of news and feature genres/formats, and links to recipes on how to write each type. I would also recommend the books [News Writing by Anna McKane](https://github.com/paulbradshaw/journalismrecipebook) and [Feature Writing and Reporting: Journalism in the Digital Age, by Jennifer Brannock Cox](https://www.amazon.co.uk/Feature-Writing-Reporting-Journalism-Digital/dp/1544354924)
 
 ## News format recipes
 
