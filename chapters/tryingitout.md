@@ -2,7 +2,7 @@
 
 If a particular activity is in the news (topical), you or an editor might pitch/propose doing a first person feature where the journalist tries out that activity. 
 
-One example is Zoe Williams's *[Grappling with Zuckerberg: why do bros go mad for Brazilian jiu-jitsu?](https://www.theguardian.com/lifeandstyle/2023/may/12/grappling-with-zuckerberg-why-do-bros-go-mad-for-brazilian-jiu-jitsu)* (the print headline was *Brazilian jiu-jitsu: getting ripped and keeping up with the tech bros*).
+One example is Zoe Williams's *[Grappling with Zuckerberg: why do bros go mad for Brazilian jiu-jitsu?](https://www.theguardian.com/lifeandstyle/2023/may/12/grappling-with-zuckerberg-why-do-bros-go-mad-for-brazilian-jiu-jitsu)* (the print headline was *Brazilian jiu-jitsu: getting ripped and keeping up with the tech bros*). Another is *[Raw milk, tomahawk steak and a cuddly toy: could I handle Erling Haaland’s daily routine?](https://www.theguardian.com/lifeandstyle/2025/nov/01/erling-haaland-daily-routine-raw-milk-tomahawk-steak-cuddly-toy)* by Sammy Gecsoyler.
 
 Here's how to write it:
 
@@ -21,6 +21,10 @@ The topicality is key here: the feature should justify in the first par or two w
 
 > Most recently, Mark Zuckerberg revealed on his social media accounts this week that [he had won gold and silver in a tournament(https://www.theguardian.com/lifeandstyle/2023/may/08/mark-zuckerberg-tom-hardy-list-celebrity-brazilian-jiu-jitsu-fighters). He joins various actors who may have confused themselves with their roles: Henry Cavill, who played Superman, Tom Hardy, of Mad Max: Fury Road fame, and Guy Ritchie, the director of King Arthur: Legend of the Sword. Russell Brand also enjoys the martial art, always at the front of the queue whenever anything fashionable and ostentatiously muscular – either physically or politically – is in the offing.
 
+In Gecsoyler's piece, it comes in the first:
+
+> Raw milk, LED light treatment, tomahawk steak and a cuddly toy. They sound more suited to the conveyor belt of The Generation Game than to a Premier League star’s daily routine, but these are some of the things the Manchester City and Norway striker Erling Haaland credits with his success.
+
 ## 2. Pitch the story (will readers of the target publication care?)
 
 The topicality should form part of your pitch - "Zuckerberg is making a big thing about jiu-jitsu, why don't we do a feature where a journalist tries it out?" - but also make sure it's relevant to your audience (do they care about this person? Will they have read the stories?) and explain why you should be the person to do it (you might have experience/contacts in the field; you might be someone who can write well).
@@ -30,7 +34,7 @@ The topicality should form part of your pitch - "Zuckerberg is making a big thin
 Don't just go ahead and do the activity - you want to make the most of the limited time you will have, so spend some time doing background research on the activity, thinking in particular about:
 
 * What locations might be best to do it?
-* Which people are important in this field, or interesting/colourful, who you could speak to or quote second hand?
+* Which people are important in this field, or interesting/colourful, who you could speak to or quote second hand? In Gecsoyler's piece, for example, an aesthetician is quoted along the way.
 * What history might be part of this article/your questions? (e.g. have other famous people talked about this? How did it all begin?)
 
 You can conduct some interviews ahead of the activity - or even organise for the interviewee to come along and be part of it so you can speak to them at the same time (you might choose a location based on a person who will be there, for example).
