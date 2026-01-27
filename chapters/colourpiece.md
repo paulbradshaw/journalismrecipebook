@@ -1,12 +1,13 @@
-# How to: write a colour piece, or 'sketch' feature
+# How to: write a colour piece, 'sketch' or 'experience' feature
 
 A colour piece is a feature which describes what it is like to 'be there', typically at a major news event. Less important events wouldn't justify the extra article, so for that reason colour pieces are not as common as other types of feature. (An exception is *[What would happen if Russia invaded Finland? I went to a giant war game in London to find out](https://www.theguardian.com/politics/2023/sep/30/what-would-happen-if-russia-invaded-finland-i-went-to-a-giant-war-game-in-london-to-find-out)*.)
 
-Examples of major news events where an editor may commission a colour piece include:
+Examples of news events where an editor may commission a colour piece include:
 
 * Major sporting events (such as a Champions League or Wimbledon final, an Olympics or Commonwealth Games, etc)
 * Major trial (something with widespread attention, such as the Wagatha Christie trial, or Johnny Depp vs Amber Heard for example)
 * A major political event, such as the resignation of a prime minister or a [mayoral election](https://www.birminghamdispatch.co.uk/p/a-day-of-high-drama-inside-the-toppling?utm_source=substack&publication_id=2048775&post_id=144326893&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=false&r=h8or&triedRedirect=true)
+* A quirky story that triggers interest, such as the fact that [you aren't allowed to watch matches at the Blackpool FC Stadium Hotel](https://www.theguardian.com/football/2026/jan/25/football-league-blackpool-hotel-pitch-view)
 
 Whereas news events focus on the facts of news events (what happened, when, with who, where, how and why), and interview features focus on what someone has said, the colour feature focuses on *details* that provide a different type of insight into the event in question. For example, if the news event was the Wimbledon final, then here are the different stories that might be commissioned:
 
@@ -61,3 +62,9 @@ A similar format to the sketch is the 'experience' feature where a reporter unde
 > "Most recently, Mark Zuckerberg revealed on his social media accounts this week that he had won gold and silver in a tournament. He joins various actors who may have confused themselves with their roles: Henry Cavill, who played Superman, Tom Hardy, of Mad Max: Fury Road fame, and Guy Ritchie, the director of King Arthur: Legend of the Sword. Russell Brand also enjoys the martial art, always at the front of the queue whenever anything fashionable and ostentatiously muscular – either physically or politically – is in the offing."
 
 It's also worth noting that this journalist has been here before, with '[Fit in my 40s: will Brazilian jiu-jitsu give me a body like Hercules?](https://www.theguardian.com/lifeandstyle/2019/sep/14/fit-in-my-40s-brazilian-jiujitsu-zoe-williams)' - part of a series including [Fit in my 40s: welcome to the velodrome. You’ll need nerves of steel](https://www.theguardian.com/lifeandstyle/2019/jul/27/fit-in-40s-velodrome-need-nerves-of-steel-zoe-williams).
+
+Another example of an experience feature is [Soap, wifi, but no football: a room without a view at Blackpool’s stadium hotel](https://www.theguardian.com/football/2026/jan/25/football-league-blackpool-hotel-pitch-view): 
+
+> "Guests with a ‘pitch view’ room at the Blackpool FC Stadium Hotel can’t watch the game – our writer checks in for a trip into the dark"
+
+The feature is ultimately answering the question of what it's like to be at the hotel while a game is going on and not being allowed to open the curtains and watch it - but there's some important reporting in there as well (although this could have been woven in earlier to make it less boring) to answer the question *why* you aren't allowed to watch games from the window, and what is being done about that. 
