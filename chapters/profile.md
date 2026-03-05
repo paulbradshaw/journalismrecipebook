@@ -129,7 +129,17 @@ Once you're confident the article is good enough to publish, don't forget to cre
 
 ## Taking it up a level
 
-Once you feel confident with a standard profile based on desk research, you might want to try something more ambitious. Here are some examples of journalists taking profile writing to another level:
+Once you feel confident with a standard profile based on desk research, you might want to try something more ambitious. 
+
+One way to do this is to include original research alongside the secondary research - by **interviewing** people who know your subject, rather than only using things already published. 
+
+You might also get exclusive information through **documentary evidence**: for example you might use FOI to obtain correspondence by or about your subject, or use sources to obtain images, video or audio. 
+
+**Data analysis** is a third technique: this might be analysis of their social media activity or connections, or themes in their speeches. 
+
+In each of these cases **the subject must justify the time involved**. Original research or analysis will slow down production, too, so it will need to still be topical. 
+
+Here are some examples of journalists taking profile writing to another level:
 
 * Longreads compiles lists of the best longform profiles every year. Its [Best profiles of 2023](https://longreads.com/2023/12/19/best-of-2023-profiles/) is just one. Remember: these are by definition *atypical*, involving much more time and research than a standard profile
 * Likewise [this Reddit thread of longform profiles](https://www.reddit.com/r/Journalism/comments/17hdl47/share_your_favorite_longform_profiles/) is useful for stepping things up
