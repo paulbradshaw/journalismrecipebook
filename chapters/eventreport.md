@@ -17,13 +17,19 @@ Identify one to attend.
 
 ## 2. Do background research
 
-Try to find out a little bit about the speakers: look for a profile on LinkedIn to find out more about their professional history and achievements. Their employer might also have a profile page on their website - the event should include a short biography. 
+You will need to do research on two things: the speakers, and the issues.
+
+Start with the speakers: look for a profile on LinkedIn to find out more about their professional history and achievements. Their employer might also have a profile page on their website - the event should include a short biography. 
 
 Find out if they have been interviewed or profiled in the media before (Nexis can be useful for this) and what they've said on social media and blogs.
 
 If a person is an expert, see what research they've been involved in by searching Google Scholar or Academia.edu.
 
 Research as many contact details as you can find related to each person - their phone number and/or their organisation's phone number; their email address, social media profiles etc. These can be added to your contacts book or database in case you need them in future.
+
+You don't need a lot of information about the speakers, just enough to put their comments into context.
+
+Next, you need to do research on the key issues being discussed. What are the big talking points, who are the key organisations, is there any jargon you need to be familiar with?
 
 ## 3. Make notes at the event (and take pictures)
 
