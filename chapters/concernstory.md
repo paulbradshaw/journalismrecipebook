@@ -86,8 +86,8 @@ Record the interview and make notes as well. It helps to include timestamps on t
 
 As you gather material, start to put it into story format. Because this is a news story, it should follow the inverted pyramid structure, with the newest piece of information at the top, followed by information in order of importance, like so:
 
-Headline: Concerns or warnings are being raised, or problems highlighted (the example goes with "‘Wild west’ reformer pilates boom is causing rise in injuries, experts warn")
-1st par: repeats same info from headline, with a few extra words ("The boom in reformer pilates has created a “wild west” of studios where poor regulation has resulted in inexperienced teachers and a rise in injuries, professional standards bodies have warned.")
-Pars 2+: provide some background to the story: what is happening or has happened recently, when/where, etc. A longer story with more quotes can have more background including anecotes; a shorter story might only provide background on a key event and the people being quoted
-Later pars: get into quotes as early as possible, ideally around the 3rd or 4th par, then weave in extra pars of background context to break up further quotes
-End pars: quotes that look ahead, or facts about what is planned to happen next can be good ways to end. You might also end on a response or no comment from someone responsible, or a final quote from the case study if they appeared early in the story.
+* Headline: Concerns or warnings are being raised, or problems highlighted (the example goes with "‘Wild west’ reformer pilates boom is causing rise in injuries, experts warn")
+* 1st par: repeats same info from headline, with a few extra words ("The boom in reformer pilates has created a “wild west” of studios where poor regulation has resulted in inexperienced teachers and a rise in injuries, professional standards bodies have warned.")
+* Pars 2+: provide some background to the story: what is happening or has happened recently, when/where, etc. A longer story with more quotes can have more background including anecotes; a shorter story might only provide background on a key event and the people being quoted
+* Later pars: get into quotes as early as possible, ideally around the 3rd or 4th par, then weave in extra pars of background context to break up further quotes
+* End pars: quotes that look ahead, or facts about what is planned to happen next can be good ways to end. You might also end on a response or no comment from someone responsible, or a final quote from the case study if they appeared early in the story.
