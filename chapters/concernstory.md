@@ -1,4 +1,4 @@
-# How to: write a news story based on 'concerns'
+# How to: use a trend to write a news story based on 'concerns'
 
 A common way to find a news story is to identify a trend and report on any concerns about that. An example of this approach can be found in the Sarah Marsh story *[‘Wild west’ reformer pilates boom is causing rise in injuries, experts warn](https://www.theguardian.com/lifeandstyle/2026/apr/04/reformer-pilates-boom-injuries)*.
 
