@@ -91,3 +91,24 @@ As you gather material, start to put it into story format. Because this is a new
 * Pars 2+: provide some background to the story: what is happening or has happened recently, when/where, etc. A longer story with more quotes can have more background including anecotes; a shorter story might only provide background on a key event and the people being quoted
 * Later pars: get into quotes as early as possible, ideally around the 3rd or 4th par, then weave in extra pars of background context to break up further quotes
 * End pars: quotes that look ahead, or facts about what is planned to happen next can be good ways to end. You might also end on a response or no comment from someone responsible, or a final quote from the case study if they appeared early in the story.
+
+## Other examples to use as templates and guides
+
+*[Fair Work Agency’s priorities criticised days before its launch](https://www.theguardian.com/business/2026/apr/05/fair-work-agency-criticised-launch-dead-duck-employment-rights)* provides an example for using a similar approach for the launch of a new body. In the build up to that scheduled event, the reporter has sought quotes from "experts and trade unions" (representative groups) who provide the story that they "say that, rather than reducing regulation, a more robust approach and greater funding for inspections is needed". The story quotes six separate sources - three representatives, two experts, and one power:
+
+1. Sharon Graham, the general secretary of Unite, "which represents more than 1 million workers"
+2. Caroline Robinson, director of the Worker Support Centre, "a charity that supports migrant workers"
+3. A member of "an advisory board with representation from business, unions and independent experts that was set up to inform the FWA’s work."
+4. Nick Clark, who previously "sat on the board of the government’s agricultural exploitation watchdog"
+5. Prof David Whyte, of Queen Mary University, who "will publish a report with the Institute of Employment Rights on Monday with recommendations for the FWA"
+6. A government spokesperson 
+
+
+
+
+
+
+
+
+
+
