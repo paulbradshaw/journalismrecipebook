@@ -26,8 +26,7 @@ Note that many reaction stories are based on identifying public reaction: the as
 2. Make a list of potential interviewees
 3. Decide on a core question
 4. Make the approaches
-5. Organise and conduct any interviews
-6. Write up the story
+5. Write up the story
 
 ## 1. Identify a news story which has follow-up potential
 
