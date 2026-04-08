@@ -32,8 +32,9 @@ News formats lead on **verbs**, e.g. something that has been done or said. Story
 * [How to write: a news story adapted from an interview feature or video](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/newsinterview.md)
 * [How to write: a news story based on a blog post/statement](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/interviewnews.md)
 * [How to: use a trend to write a news story based on 'concerns'/'warnings'](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/concernstory.md)
-* Reaction stories 
-* ['New report says' [TBD]](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/reportnews.md)
+* [How to write stories about a 'New report says'](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/reportnews.md)
+* [How to write a news story based on a reaction](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/reaction.md) (TBD)
+
 
 ## Feature format recipes
 
