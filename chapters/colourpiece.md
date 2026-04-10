@@ -8,6 +8,7 @@ Examples of news events where an editor may commission a colour piece include:
 * Major trial (something with widespread attention, such as the Wagatha Christie trial, or Johnny Depp vs Amber Heard for example)
 * A major political event, such as the resignation of a prime minister or a [mayoral election](https://www.birminghamdispatch.co.uk/p/a-day-of-high-drama-inside-the-toppling?utm_source=substack&publication_id=2048775&post_id=144326893&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=false&r=h8or&triedRedirect=true)
 * A quirky story that triggers interest, such as the fact that [you aren't allowed to watch matches at the Blackpool FC Stadium Hotel](https://www.theguardian.com/football/2026/jan/25/football-league-blackpool-hotel-pitch-view)
+* You are caught in the middle of an event which is quite topical, as in [A hectic hour inside the teen madness on New Street](https://www.birminghamdispatch.co.uk/a-hectic-hour-inside-the-teen-madness-on-new-street/?ref=dispatch-newsletter)
 
 Whereas news events focus on the facts of news events (what happened, when, with who, where, how and why), and interview features focus on what someone has said, the colour feature focuses on *details* that provide a different type of insight into the event in question. For example, if the news event was the Wimbledon final, then here are the different stories that might be commissioned:
 
