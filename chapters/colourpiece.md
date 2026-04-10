@@ -69,3 +69,7 @@ Another example of an experience feature is [Soap, wifi, but no football: a room
 > "Guests with a ‘pitch view’ room at the Blackpool FC Stadium Hotel can’t watch the game – our writer checks in for a trip into the dark"
 
 The feature is ultimately answering the question of what it's like to be at the hotel while a game is going on and not being allowed to open the curtains and watch it - but there's some important reporting in there as well (although this could have been woven in earlier to make it less boring) to answer the question *why* you aren't allowed to watch games from the window, and what is being done about that. 
+
+## Other examples
+
+* [Piss, needles and political aspirations: the litter guerrillas cleaning up Brum](https://www.birminghamdispatch.co.uk/piss-needles-and-political-aspirations-the-litter-guerrillas-cleaning-up-brum/?ref=dispatch-newsletter)
