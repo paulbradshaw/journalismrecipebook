@@ -22,6 +22,7 @@ This recipe focuses on routine profiles based on secondary research ("desk resea
 * The Guardian collects all its profiles at https://www.theguardian.com/tone/profiles
 * BBC profiles tend to start with "Who is ___". You can [find them using the search `site:bbc.co.uk/news "who is"`](https://www.google.com/search?q=site%3Abbc.co.uk%2Fnews+%22who+is%22)
 * New Yorker Magazine has its profiles at https://www.newyorker.com/magazine/profiles
+* Here's an example of a company profile (where the company has been in the news): [Fee hikes, big bonuses, then bosses exit: the curious case of City & Guilds privatisation](https://www.theguardian.com/education/2026/apr/19/fee-bonuses-bosses-city-and-guilds-privatisation-charity-commission)
 
 
 ## 1. Identify your target (30 minutes)
