@@ -1,4 +1,4 @@
-# How to: write a news story based on a panel event
+# How to: write a news story based on a panel event or public talk
 
 Panel discussions and public talks are good material for news stories. Often the story focuses on the most newsworthy thing that someone has said there - see how the same event was reported in two different ways [by openDemocracy](https://www.opendemocracy.net/en/freedom-of-information/uk-government-must-abolish-pernicious-unit-blocking-foi-requests-says-senior-tory/) ("*UK government must abolish ‘pernicious’ unit blocking FOI requests, says senior Tory*") [and Camden New Journal](http://camdennewjournal.com/article/freedom-of-information-act-failing-due-to-obsession-with-secrecy-says-creator) ("*Freedom of information Act failing due to ‘obsession with secrecy’, says creator*") - but how both follow the same 'person says X' angle.
 
@@ -67,3 +67,7 @@ Look at the examples linked above to get a feel for the structure of a panel rep
 ## Further ideas
 
 You might get more than one story out of a panel event based on different angles. But you might also get a **follow-up story** based on a reaction to what was said. For example, if a person or organisation was criticised, you might seek a response to that which might give you a story along the lines of 'X defends decision to do Y' or 'X: "quote defending Y"' or even "X to do Y following criticism". In that story the criticism will become background (a few pars down in that story).
+
+## More examples
+
+* [Rivals actor Katherine Parkinson lauds series for depicting women’s view of sex](https://www.theguardian.com/tv-and-radio/2026/may/15/rivals-actor-katherine-parkinson-lauds-series-for-depicting-womens-view-of-sex): the reporter attended a preview screening in Bristol where she was speaking
