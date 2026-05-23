@@ -136,6 +136,12 @@ Then you'll need images to illustrate the tips. In some cases you will need an i
 
 Once you're done get ready to publish and think about distribution: remember not to 'promote' the story on social media but to tell it in a way that makes sense on that platform, with a link to the original so they can read that too. 
 
+For example, on X or BlueSky a thread will work well for this story, with the first post being the intro and each tip being used for a post in the thread. On Instagram, LinkedIn and TikTok you could use the same material as a carousel.
+
+On LinkedIn, more personal/professional approaches also work well so you might tell the story of how you spoke to X experts and 'this is what I found' (you can use first person on social).
+
+On TikTok/Instagram Reels etc. you might use a rewritten version of the standfirst as your opener to raise the question/problem and grab people in the first few seconds, then rattle through three of the best tips, before pointing them to the article for more tips.
+
 ## Other examples
 
 * *[‘I laughed out loud dozens of times’: authors choose books to make you fall back in love with reading](https://www.theguardian.com/books/2026/may/23/i-laughed-out-loud-dozens-of-times-authors-choose-books-to-make-you-fall-back-in-love-with-reading)* follows the same format in the examples above, but with no intro at all, more interviews, and fewer images.
