@@ -75,3 +75,8 @@ In the story about a runner, it's done in sections between quotes, like so:
 
 > The industry says it is aware of the problem and is taking steps to address it. Broadcasters and stars have voiced support for a new body, the Creative Industries Independent Standards Authority.
 
+
+## Other examples
+
+* *[BA’s ‘no-show’ clause cost me £9,000 for new flights](https://www.theguardian.com/money/2026/may/18/ba-no-show-clause-flights-british-airways)*
+
