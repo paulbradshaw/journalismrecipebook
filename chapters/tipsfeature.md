@@ -80,11 +80,9 @@ When you make contact, explain your feature succinctly, and explain why you thin
 
 Set a reminder to chase people up after a week. If you don't have enough responses by that time, chase up the ones you've contacted, and contact more experts as well (try different types), as a low success rate means you will need to contact more people to get one successful response. Review your approach, too (get feedback): it might be that your email is too long or short, or you can more clearly pitch the story, etc.
 
-## 6. Select your quotes and organise them into sections
+## 5. Select your quotes and organise them into sections
 
 Once you have enough responses, you have most of the material for the article. Your role now is to order and edit them.
-
-You want to make sure that the article is more than just a list of tips - it should have some sort of structure: a beginning, middle and end. 
 
 All this means in practice is thinking about which tip is the best to begin with, which is the best to end with, and whether any tips might link together in some way. 
 
@@ -96,10 +94,44 @@ Tips that link together might share common themes, or propose different approach
 
 Many of the responses will be longer than you need - people tend to say more than they need to - so you need to be ruthless in editing them. Remember your role is to serve the audience by not wasting their time, which means making sure each tip is punchy and succinct. 
 
-Cut them back each response to the most essential part of it - there can be a line or two of 'colour' (such as an anecdote or example) but not too much. Don't worry about interviewees being offended: they will understand that your role is to make their tips look sharp and useful, rather than to use all their words. 
+Cut back each response to the most essential part of it - there can be a line or two of 'colour' (such as an anecdote or example) but not too much. Don't worry about interviewees being offended: they will understand that your role is to make their tips look sharp and useful, rather than to use all their words. 
 
+Some publications put each tip in quotation marks - some don't (one of the two examples does, and one doesn't). After each tip, state the full name of the expert and their role. Readers will need to be able to judge where their expertise comes from.
 
+## 6. Write a standfirst and intro
 
-## 7. Write an intro
-## 8. Find images to illustrate
-## 9. Publish and distribute
+Once you've put your quotes into order, all that's left to write is the standfirst and intro. 
+
+The **standfirst** is the larger paragraph under the headline. It typically 'sells' the article in two sentences: the first sets out why this topic is important or interesting or topical; the second sentences sets what the article does (the 'promise'). Here's the standfirst for the exercise tips piece:
+
+> Whether you are starting from scratch, or have a well-honed routine, moving can help us feel happier and healthier. Experts share their one essential exercise and how to get the most out of it
+
+And for the £20 feature:
+
+> Which cake tin would a Bake Off contestant pick? What vest top does the Vogue editor find the most flattering? Our panel shares their best £20-or-less go-tos
+
+Try to mirror one of those approaches in your own standfirst.
+
+Next, you need an **intro**. This is the beginning of the actual article. It needs to be short: one or two paragraphs is fine. Here's the one-paragraph intro for the exercise tips feature:
+
+> Many of us, regardless of our age or fitness levels, know that we should be doing more exercise but are unsure where to start. So what is the ultimate exercise for improving health, longevity and general wellbeing? Here, personal trainers share the best moves, whatever your individual needs or abilities.
+
+And here's the two paragraphs that open the £20 feature:
+
+> Can you buy anything useful and good quality for £20 or under? Yes, as it turns out. To prove it, we asked 14 experts in their fields, from a former Olympic athlete to a makeup guru, for their recommendations for the best thing to spend that money on.
+>
+> So, whether you want affordable ideas for how to make wine last longer or have a happier dog, or are looking for better home storage, the best cake tin or the nattiest men’s socks, these brilliant buys will enhance your daily life, and won’t blow a hole in the budget.
+
+The intro is quite similar to the standfirst but with more words. Both examples start by establishing a problem or question (many of us don't know where to start with exercise; can you get anything useful for less than £20), before explaining what the article will do. Note that the intro doesn't say "I" did something, but "we" did. 
+
+## 7. Find images to illustrate
+
+Now the article needs images to break it up and convey what it is about. 
+
+You'll need a lead image to illustrate the whole thing - this is likely to be more conceptual, so often illustrations are used rather than photos (note the two examples both use illustrations).
+
+Then you'll need images to illustrate the tips. In some cases you will need an image for every tip - in the examples, it's every product and every exercise. But in your story you might not need to illustrate each one. 
+
+## 8. Publish and distribute
+
+Once you're done get ready to publish and think about distribution: remember not to 'promote' the story on social media but to tell it in a way that makes sense on that platform, with a link to the original so they can read that too. 
