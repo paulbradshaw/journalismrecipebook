@@ -82,7 +82,23 @@ Set a reminder to chase people up after a week. If you don't have enough respons
 
 ## 6. Select your quotes and organise them into sections
 
-Once you have enough responses.
+Once you have enough responses, you have most of the material for the article. Your role now is to order and edit them.
+
+You want to make sure that the article is more than just a list of tips - it should have some sort of structure: a beginning, middle and end. 
+
+All this means in practice is thinking about which tip is the best to begin with, which is the best to end with, and whether any tips might link together in some way. 
+
+For example, the first tip is going to play a key role in grabbing the reader, so this should be the best or more interesting tip. If it establishes a key 'problem' then that's even better, because that will grab readers too.
+
+The last tip should look ahead or come full circle. Examples include tips about where to find out more information, what we can expect in the future, or tip that refers back to the opening tip (for example by the same person)
+
+Tips that link together might share common themes, or propose different approaches to the same problem. These will naturally flow from each other, so it makes sense to group them. 
+
+Many of the responses will be longer than you need - people tend to say more than they need to - so you need to be ruthless in editing them. Remember your role is to serve the audience by not wasting their time, which means making sure each tip is punchy and succinct. 
+
+Cut them back each response to the most essential part of it - there can be a line or two of 'colour' (such as an anecdote or example) but not too much. Don't worry about interviewees being offended: they will understand that your role is to make their tips look sharp and useful, rather than to use all their words. 
+
+
 
 ## 7. Write an intro
 ## 8. Find images to illustrate
