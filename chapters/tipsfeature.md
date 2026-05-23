@@ -52,9 +52,9 @@ Remember: *brainstorming is about quantity, not quality*, so you should not be s
 I've seen this described as like running an old disused tap: at first the water is muddy, so you have to run it for a while to flush out the poor quality water and get the better stuff.
 
 ## 3. Shortlist so you have a good variety
-## 3. Do background research 
-## 4. Find contact details and make approaches 
-## 5. Select your quotes and organise them into sections
-## 6. Write an intro
-## 7. Find images to illustrate
-## 8. Publish and distribute
+## 4. Do background research 
+## 5. Find contact details and make approaches 
+## 6. Select your quotes and organise them into sections
+## 7. Write an intro
+## 8. Find images to illustrate
+## 9. Publish and distribute
