@@ -135,3 +135,10 @@ Then you'll need images to illustrate the tips. In some cases you will need an i
 ## 8. Publish and distribute
 
 Once you're done get ready to publish and think about distribution: remember not to 'promote' the story on social media but to tell it in a way that makes sense on that platform, with a link to the original so they can read that too. 
+
+## Other examples
+
+* *[‘I laughed out loud dozens of times’: authors choose books to make you fall back in love with reading](https://www.theguardian.com/books/2026/may/23/i-laughed-out-loud-dozens-of-times-authors-choose-books-to-make-you-fall-back-in-love-with-reading)* follows the same format in the examples above, but with no intro at all, more interviews, and fewer images.
+* *[How often should you go to the toilet? How can you get the better of wind? Experts’ tips for a healthier gut](https://www.theguardian.com/lifeandstyle/2026/may/21/how-often-should-you-go-to-the-toilet-how-can-you-get-the-better-of-wind-experts-tips-for-a-healthier-gut)* has a slightly less rigid structure, weaving in expert recommendations alongside background research rather than going through them one by one.
+* [Sarah Phillips's articles](https://www.theguardian.com/profile/sarahphillips) contain many other examples.
+* *[Screentime swaps: how to quit doomscrolling without quitting your phone](https://www.theguardian.com/lifeandstyle/2026/may/22/how-to-quit-doomscrolling-without-quitting-your-phone)* is the most flowing example which weaves in more background research and does not use the same rigid structure as the other examples, although it does structure the article around different tips (note how each subheading is a different tip).
