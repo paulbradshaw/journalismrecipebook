@@ -62,6 +62,7 @@ Feature formats tend to be longer and less time-sensitive than news stories - bu
 * [How to write a 'vox pop feature'](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/voxpop.md)
 * [How to write a historical feature](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/historicalfeature.md)
 * [How to write a profile](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/profile.md)
+* TBC: [How to write an anniversary feature](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/anniversary.md)
 
 ### Investigations
 
