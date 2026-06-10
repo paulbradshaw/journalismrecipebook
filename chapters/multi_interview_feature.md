@@ -134,3 +134,7 @@ Be ruthless when you edit the story. You might have done a lot of research, but 
 ## 10. Publish and distribute!
 
 Once it's ready to go, don't just publish - think about how the story can be told across social media too, to bring in as wide an audience as possible.
+
+## Other examples
+
+* [One year on: how landmark ruling on single-sex spaces has changed lives](https://www.theguardian.com/society/2026/apr/15/how-scotland-landmark-ruling-single-sex-spaces-changed-lives) is an anniversary feature that uses a multi-interview format in a relatively simple way.
