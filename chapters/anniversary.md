@@ -23,3 +23,9 @@ This recipe, however, focuses on anniversary *features*.
 ## 1. Identify, or plan for, the anniversary of a major news event
 
 When a major news event occurs, make a diary note to start revisiting it in 11 months' time for its one-year anniversary
+
+
+## Other examples
+
+* [2011 riots Birmingham: How Tariq Jahan stopped a race riot](http://www.bbc.co.uk/news/uk-england-birmingham-36914228)
+* [Heysel: the witnesses' stories](http://www.theguardian.com/football/2005/apr/03/newsstory.sport)
