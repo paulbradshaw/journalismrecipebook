@@ -43,6 +43,8 @@ Make a list of all the potential angles you could focus on. Remember that your s
 * "How" something happened/happens: this angle focuses more on revisiting the event and breaking down what we now know about what happened
 * "What" has happened since: for negative events, you might focus on what has been done since to stop it happening again
 * "Has anything changed?" Again, for negative events, exploring *if* the causes have been tackled
+* "What has changed?" A similar approach but more focused on anniversaries of new policies or processes
+* "What is the legacy?" Particularly useful for events that were supposed to leave a legacy, either good or bad (e.g. Olympics, Brexit) 
 * "What have we learned?" 
 * "Is it working?" is a useful angle for anniversaries of new initiatives such as new laws, new policies, new guidelines, new practices etc. that were introduced with the intention of achieving a particular results such as reducing something bad (like crime, etc.) or increasing something good (like revenue, fans etc)
 * How does it connect with current events? Sometimes past events feel particularly relevant to current ones. It might be obvious, like what the anniversary of the launch of a league tells us at a time when a new league is being proposed, or it might be more indirect, like how the anniversary of a major protest mirrors current debates around free speech.
