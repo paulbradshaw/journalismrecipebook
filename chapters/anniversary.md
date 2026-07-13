@@ -50,6 +50,22 @@ Make a list of all the potential angles you could focus on. Remember that your s
 * How does it connect with current events? Sometimes past events feel particularly relevant to current ones. It might be obvious, like what the anniversary of the launch of a league tells us at a time when a new league is being proposed, or it might be more indirect, like how the anniversary of a major protest mirrors current debates around free speech.
 
 ## 2. Do any background research needed
+
+It's important to identify a clear angle: don't have a mix of angles (that's not a story). The angle will determine where you need to focus your background research - and will prevent you wasting time on gathering irrelevant information or asking unnecessary questions. 
+
+Start your research by looking for the answers to the core question that you've asked. Don't just do a general search on Google or AI. Instead, use more specific and effective approaches such as:
+
+* "Cuttings" research (previous news reports) will be useful for finding out about events, timelines and what has been said by various stakeholders. Try a specialist news search service like [Nexis](https://docs.google.com/document/d/1P9EyhF1OVI1kV19v5_XmGsuCB7y5j1hzPFbm0RTSAbo/edit?usp=sharing) (you get access through the university library) or Google News (less effective but free)
+* Academic research will be useful for answering 'why' and 'how' questions. Try specialist search engines like Google Scholar, [JSTOR](https://www.jstor.org/) Academia.edu and ResearchGate to limit results to research. Note that not all research is published or peer reviewed: being published in a journal is a signal that it is likely to be more accurate and credible.
+* Contemporary material (i.e. what was written at the time of the event). If it's a historical event, try historical sources and archives. If it's more recent, [use Google's search tools to limit the date range of results to the time of the events](https://www.guidingtech.com/how-to-search-google-by-date/).
+* Official reports and records. If the anniversary is of an inquest or key report, or of an event which led to an inquest or report, then try to find those documents. They will probably be hosted on a .gov.uk domain - you can add `site:gov.uk` to a search to limit results to that
+* Data. If you're asking a question about whether things have changed since the original event, data is where you will find some answers. A good first place to try is the Government's [research and statistics](https://www.gov.uk/search/research-and-statistics) page, where you can search for data from all departments. Also try [data.gov.uk](https://www.data.gov.uk/) and the [Office for National Statistics (ONS) website](https://www.ons.gov.uk/). Local councils and regulators will also publish data, and you can search [WhatDoTheyKnow](https://www.whatdotheyknow.com/) for any data or documents that have been released in response to FOI requests.
+* Ask AI tools for a research *strategy* for your question. This is [called **journey prompting**](https://onlinejournalismblog.com/2025/12/02/journey-prompts-and-destination-prompts-how-to-avoid-becoming-deskilled-when-using-ai/) and it has two advantages over simply asking AI questions: first, it avoids deskilling and helps you develop research skills. And second, it will lead you to more relevant and higher quality material than a general prompt would, as AI is not a search engine (and will regularly provide incorrect, outdated, and hallucinated answers).
+
+As you conduct your research, make a note of any further questions that it raises - those questions are potential sections in your story that you can also research.
+
+If you use a general search engine or AI tool for any research, make sure you **check the source** of the information being provided. Search engine summaries (especially AI Overviews) are often inaccurate, and AI responses are often made up. Remember that AI tools do not search a database of sources, but instead predict a series of sentences based on their training on patterns in human writing. Sometimes those predictions match factual sentences, and sometimes they do not. 
+
 ## 3. Identify a range of potential interviewees
 ## 4. Conduct the interviews
 ## 5. Edit the results into a story
