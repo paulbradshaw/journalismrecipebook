@@ -67,7 +67,28 @@ As you conduct your research, make a note of any further questions that it raise
 If you use a general search engine or AI tool for any research, make sure you **check the source** of the information being provided. Search engine summaries (especially AI Overviews) are often inaccurate, and AI responses are often made up. Remember that AI tools do not search a database of sources, but instead predict a series of sentences based on their training on patterns in human writing. Sometimes those predictions match factual sentences, and sometimes they do not. 
 
 ## 3. Identify a range of potential interviewees
-## 4. Conduct the interviews
+
+Many anniversary features (but not all) will need interviews to provide something fresh or original. As with all journalism, the [PEER framework](https://onlinejournalismblog.com/2026/03/09/peer-a-technique-for-brainstorming-interviewees-and-story-sources/) is a useful way of brainstorming these:
+
+* Power: who had responsibility for the original event? Who had responsibility to investigate it? Who had responsibility for what happened since? Who has responsibility for enforcing any rules created since?
+* Expertise: which experts can answer questions around why and how the event happened, or what has happened since and is happening now?
+* Experience: who experienced the original event directly? Who is experiencing similar events now?
+* Representatives: who represents those affected, or those involved?
+
+Use your angle to identify what categories of interviewee are most relevant to your story. For example for a story about 'how' something happens you will need experts and those with personal experience of the process - but not people in power (unless the 'how' is about power) while an angle focusing on 'what has changed' might need people in power to answer questions around how rules and enforcement has changed, as well as representatives of those affected by the rules to talk about how effective they actually are.
+
+Brainstorm potential interviewees in each category. Try to get specific names and either their contact details or the contact details of their organisation or media team. Phone numbers are best, as calling and asking to speak to someone will give you the highest success rate. 
+
+Keep going until you have a list of at least 10 names for each interviewee you'll need (expect 90% of interviewees to not respond, refuse or fall through - more if you are using email or social media to contact them). 
+
+## 4. Organise and conduct the interviews
+
+Contact your interviewees as early as possible to allow time to find a convenient appointment, and to allow for chasing up.
+
+Try to make your approach professional, clear, succinct and empathetic. 
+
+Make a diary note to chase them a few days or a week after the initial contact if they do not respond by then. [Persistence is a key skill you are developing here](https://onlinejournalismblog.com/2020/10/13/developing-persistence-and-tenacity-as-a-journalist-7-habits-of-successful-journalists-part-3/) and interviewees will expect that, as long as you do it professionally. Organisation is also an aspect of developing [discipline](https://onlinejournalismblog.com/2020/12/01/why-discipline-is-one-of-the-7-habits-of-successful-journalists/), another key skill.
+
 ## 5. Edit the results into a story
 
 **How long should the story be?**
