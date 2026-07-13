@@ -85,11 +85,15 @@ Keep going until you have a list of at least 10 names for each interviewee you'l
 
 Contact your interviewees as early as possible to allow time to find a convenient appointment, and to allow for chasing up.
 
-Try to make your approach professional, clear, succinct and empathetic. 
+Try to make your approach professional, clear, succinct and empathetic. [See the tips on doing an interview feature for more](https://github.com/paulbradshaw/journalismrecipebook/blob/main/chapters/interviewfeature.md).
 
 Make a diary note to chase them a few days or a week after the initial contact if they do not respond by then. [Persistence is a key skill you are developing here](https://onlinejournalismblog.com/2020/10/13/developing-persistence-and-tenacity-as-a-journalist-7-habits-of-successful-journalists-part-3/) and interviewees will expect that, as long as you do it professionally. Organisation is also an aspect of developing [discipline](https://onlinejournalismblog.com/2020/12/01/why-discipline-is-one-of-the-7-habits-of-successful-journalists/), another key skill.
 
+Plan your interview questions carefully: make a list of potential questions and then edit them down. Cut out questions that are less relevant to your story focus, and those which you can answer yourself through background research. Focus on questions which directly answer the question your story is asking, and that their role (expert, power, experience, representative) relates to.
+
 ## 5. Edit the results into a story
+
+Look at the examples of anniversary stories above to find a model for the approach you want to follow. Then try to mirror its structure. 
 
 **How long should the story be?**
 
