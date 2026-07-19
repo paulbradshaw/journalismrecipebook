@@ -38,27 +38,56 @@ Here are examples of each:
 
 ### The change story
 
-Profits at online grocers Amozan increased by 20% in the latest financial year, according to newly published accounts.
+*Profits at online grocers Amozan increased by 20% in the latest financial year, according to newly published accounts.*
 
-The company reported profits on £36m in the year to October 2022 - up from £30m the previous year. 
+*The company reported profits on £36m in the year to October 2022 - up from £30m the previous year.*
 
-Director Sam Hall said: "This year we have expanded into a number of new markets, where we have performed better than expected."
+*Director Sam Hall said: "This year we have expanded into a number of new markets, where we have performed better than expected."*
 
 
 ### The scale story
 
-Online grocers Amozan have announced profits of £36m in their latest accounts.
+*Online grocers Amozan have announced profits of £36m in their latest accounts.*
 
-The figure, covering the year to October 2022, represents a rise of 20% on the previous year, when the company reported profits £30m. 
+*The figure, covering the year to October 2022, represents a rise of 20% on the previous year, when the company reported profits £30m.*
 
-Director Sam Hall said: "This year we have expanded into a number of new markets, where we have performed better than expected."
+*Director Sam Hall said: "This year we have expanded into a number of new markets, where we have performed better than expected."*
 
 
 ### The quote story
 
-The director of online grocers Amozan says they intend to continue their expansion into new markets after new accounts showed a big incrfease in profits.
+*The director of online grocers Amozan says they intend to continue their expansion into new markets after new accounts showed a big incrfease in profits.*
 
-Sam Hall, who took over as director last year, said: "This year we have expanded into a number of new markets, where we have performed better than expected. The strategic objective for the next 12 months is to expand even further."
+*Sam Hall, who took over as director last year, said: "This year we have expanded into a number of new markets, where we have performed better than expected. The strategic objective for the next 12 months is to expand even further."*
 
-The company made profits of £36m in the year to October 2022, a rise of 20% on the previous year.
+*The company made profits of £36m in the year to October 2022, a rise of 20% on the previous year.*
+
+### A sport example
+
+Here's an example from the sports pages of The Guardian:
+
+> **Exeter post annual losses of £10.3m**
+>
+> Exeter Chiefs have announced an annual after-tax loss of £10.3m for the last financial year. The club were forced to write off a loan of £6.2m, while poor results last season also led to a reduction in income.
+>
+> Exeter's chief executive, Tony Rowe, confirmed the club are seeking fresh investment but he insisted there was a brighter future ahead. "I have no doubt thst within the next two to three years, you will find us back right at the top," he told BBC Radio Devon.
+
+### A longer example (news report)
+
+You can extend the NIB by a few pars to make it into a news story, like [this one](https://www.theguardian.com/technology/2026/jan/09/x-uk-revenues-drop-nearly-60-in-a-year-as-advertisers-pull-out-over-content-concerns). The shorter version that appeared in print ends after five pars:
+
+> **X UK revenues drop nearly 60% in a year as content concerns spook advertisers**
+>
+> UK revenues at Elon Musk’s X fell by almost 60% in a year as advertisers pulled their spending over concerns about the social media platform’s content.
+>
+> The plummeting financial performance came as X switched off the image creation function on its AI tool Grok for the vast majority of users after a widespread outcry about its use to create sexually explicit and violent imagery.
+>
+> In Britain, the social media site's revenues fell by 58.2% from £69.1m in 2023 to £28.9m last year, according to the latest financial figures published at Companies House covering the year to 31 December 2024.
+>
+> Pre-tax profits plunged from £2.2m to £767,000 year-on-year. That contrasts with £8.5m in pre-tax profits in 2022, the year Musk took control of the site then known as Twitter.
+>
+> “The significant decrease in the performance of the company is a result of the decline of advertising revenue primarily driven by a reduction in spend from large brand advertisers due to concerns about brand safety, reputation and/or content moderation,” X said.
+
+
+
 
